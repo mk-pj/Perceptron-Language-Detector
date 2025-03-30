@@ -1,0 +1,123 @@
+Tytuł: (136199) Eris
+
+(136199) Eris (IPA: [ˈeːʁɪs] ; frühere Bezeichnung 2003 UB313) ist der massereichste und nach Pluto zweitgrößte bekannte Zwergplanet des Sonnensystems. Eris zählt zu den Plutoiden, einer Unterklasse von Zwergplaneten, die jenseits der Neptunbahn die Sonne umrunden. Eris ist (Stand 2019) das größte erfasste Objekt im Sonnensystem, welches noch nie von einer Raumsonde untersucht wurde; bekannt ist ein Mond namens Dysnomia.
+Der Zwergplanet ist nach Eris benannt, der griechischen Göttin der Zwietracht und des Streits. Nach der Bekanntgabe ihrer Entdeckung am 29. Juli 2005 bezeichneten die NASA und viele Medien dieses transneptunische Objekt mit einem ähnlichen Durchmesser wie Pluto zunächst als „zehnten Planeten“. Die Internationale Astronomische Union (IAU) verabschiedete allerdings am 24. August 2006 eine neue Planetendefinition, nach der Eris, genauso wie Pluto, als Zwergplanet klassifiziert wurde.
+
+
+Entdeckung und Benennung
+
+
+Entdeckungsgeschichte
+
+Eris wurde von einem Astronomenteam, bestehend aus Mike Brown (CalTech), Chad Trujillo (Gemini-Observatorium) und Dave Rabinowitz (Yale-Universität), auf CCD-Aufnahmen vom 21. Oktober 2003 des 1,2-m-Oschin-Schmidt-Teleskops am Palomar-Observatorium (Kalifornien) entdeckt. Weil das Objekt sich langsam bewegt, war es bei der ersten Verarbeitung der Bilder übersehen worden, denn das automatische Bildsuchprogramm hatte zur Verringerung falsch positiver Meldungen alle Objekte ausgeschlossen, die sich langsamer als mit 1,5 Bogensekunden pro Stunde bewegen. Als 2003 Sedna entdeckt wurde, bewegte diese sich mit 1,75 Bogensekunden pro Stunde. Bei einer neuen Auswertung der Daten suchte das Team daher mit bloßem Auge und fand am 5. Januar 2005 jenseits des Kuipergürtels Eris.
+Es war geplant, den Fund erst nach weiteren Beobachtungen und genauerer Bestimmung der Bahnelemente zu veröffentlichen. Nachdem aber bekannt geworden war, dass über eine öffentliche Webseite jeder Interessierte die Ausrichtung eines der Teleskope abfragen konnte, gingen die Forscher am 29. Juli 2005 vorzeitig an die Öffentlichkeit und gaben die Entdeckung bekannt. Hintergrund für diese Entscheidung war, dass nur 19 Stunden zuvor ein Team spanischer Astronomen ihre Entdeckung von Haumea veröffentlicht hatte, die von der Gruppe um Brown bereits im Jahr 2004 gefunden, aber noch nicht bekannt gemacht worden war. Browns Gruppe konnte so am selben Tag die Entdeckung von drei großen Objekten im Kuipergürtel der Öffentlichkeit vorstellen: Eris, Haumea und Makemake.
+Eris war die achte Entdeckung eines großen TNO und wahrscheinlichen Zwergplaneten des Astronomenteams um Mike Brown. Browns Team entdeckte nacheinander Quaoar und 2002 MS4 (2002), Sedna (2003) und Haumea (2003, umstritten), Orcus und Salacia (2004) und dann Eris; darauf folgten noch Makemake (2005) sowie Gonggong (2007).
+Nach ihrer Entdeckung ließ sich Eris auf Fotos bis zum 3. September 1954, die im Rahmen des Digitized-Sky-Survey-Programmes ebenfalls am Palomar-Observatorium gemacht wurden, zurückgehend identifizieren. Damit wurde der Beobachtungszeitraum um 51 Jahre verlängert, so dass man ihre Umlaufbahn so genau berechnen konnte, dass die Bahndaten heute als sehr sicher bestimmt gelten. Im Oktober 2018 lagen insgesamt 1089 Beobachtungen über einen Zeitraum von 64 Jahren vor. Die bisher letzte Beobachtung wurde im Februar 2019 am ATLAS-Teleskop des Haleakalā-Observatoriums (Maui) durchgeführt. (Stand 6. März 2019)
+
+
+Benennung und Symbol
+Mit der Entdeckungsveröffentlichung wurde von der IAU für Eris die provisorische Bezeichnung 2003 UB313 vergeben. Sie folgt den üblichen Regeln zur Benennung von Asteroiden und drückt nur kodiert aus, dass Eris in der zweiten Oktoberhälfte (U) des Jahres 2003 entdeckt wurde, und zwar nach der Reihenfolge als 7827. gefundenes Objekt (B313). Die Arbeitsgruppe der Entdecker nannte Eris zunächst intern und inoffiziell „Xena“ und ihren Mond „Gabrielle“, nach zwei Rollennamen aus der Fernsehserie Xena – Die Kriegerprinzessin.
+Dem folgte auf Einreichen des Vorschlags des Entdeckerteams am 6. September 2006 die Vergabe des dauerhaften Namens: Am 13. September 2006 – gleichzeitig wie Pluto – erhielt 2003 UB313 von der IAU die Kleinplaneten-Nummer 136199 und gleichzeitig den Namen Eris, ihr Mond den Namen Dysnomia. Die Namensvergabe erfolgte gemäß den Benennungsprotokollen der IAU für Planetoiden.
+In der griechischen Mythologie ist Eris die Göttin der Zwietracht und des Streits, deren Intrige den Trojanischen Krieg auslöst. Ihre Tochter, die Dämonin der Gesetzlosigkeit, heißt Dysnomia. Beide Namen geben einen Hinweis auf die erbitterte Kontroverse, die nach ihrer Entdeckung schließlich zur Neudefinition des Begriffs „Planet“ und der Aberkennung des Planetenstatus von Pluto führte. Ein weiterer Bezug besteht zur ursprünglich gewählten Arbeitsbezeichnung „Xena“. Die Filmfigur Xena wurde von der Schauspielerin Lucy Lawless verkörpert. Lawlessness ist der englische Begriff für Gesetzlosigkeit, worauf die Vergabe des Namens Dysnomia anspielt.
+Im Gegensatz zu Pluto haben andere Zwergplaneten und Asteroiden, einschließlich Eris, kein allgemein verwendetes astronomisches Symbol, obwohl ein Symbol für Eris von der NASA verwendet wurde: das diskordianische Symbol Hand der Eris ().
+Von der Verwendung von Planetensymbolen rät die Internationale Astronomische Union (IAU) offiziell ab; sie spielen in der modernen Astronomie nur eine sehr untergeordnete Rolle.
+
+
+Bahneigenschaften
+
+
+Umlaufbahn
+
+Eris bewegt sich auf einer elliptischen Umlaufbahn mit einer großen Halbachse von 68,05 AE bei einer Exzentrizität von 0,4357 Grad um die Sonne. Die Sonnenentfernung liegt damit zwischen 38,402 AE und 97,69852 AE. Ein Umlauf um die Sonne dauert 561 Jahre.   Seinen sonnennächsten Punkt erreichte Eris am 2. April 1696.   Die Bahn ist 43,8 Grad gegen die Ekliptik geneigt.
+Die Bahn ist also stark exzentrisch. Am 13. Februar 2020 lag die Sonnenentfernung bei genau 96 Astronomische Einheiten (14,4 Milliarden Kilometer). Am 2. September 2031 wird die Sonnenentfernung 95 AE unterschreiten. Man rechnet sie wegen ihrer großen Exzentrizität bahndynamisch zu den sogenannten „gestreuten“ Kuipergürtelobjekten (SDO), einer Untergruppe von transneptunischen Asteroiden.
+Auffällig ist die starke Bahnneigung, was für einen Körper dieser Größe recht ungewöhnlich ist und wahrscheinlich die Entdeckung hinauszögerte. Die meisten Suchprogramme für Kuiper Belt Objects (KBOs) oder andere Asteroiden beschränken sich auf Positionen in der ungefähren Umgebung der Ekliptik, da dort der Großteil der Materie des Sonnensystems konzentriert ist. Möglicherweise wurde Eris durch den gravitativen Einfluss Neptuns in diese Bahn gelenkt.
+Eris galt seit ihrer Entdeckung – von einigen viel kleineren langperiodischen Kometen abgesehen – als das entfernteste entdeckte Objekt, bis es 2018 in diesem Bereich von 2018 VG18 (124,8 AE) abgelöst wurde. Auch wird Eris 2045 bezüglich der Sonnenentfernung von Gonggong überholt werden. Eris ist jedoch weit davon entfernt, das Objekt mit der weitesten bekannten Umlaufbahn zu sein, da ihre große Halbachse auf „nur“ 67,7 AE geschätzt wird, während die Halbachse vom derzeitigen (Stand 2019) Rekordhalter 2014 FE72 etwa 1505 AE beträgt. Es gibt etwa 40 bekannte TNO, wie etwa Sedna (84,9 AE), 2006 SQ372 und 2000 OO67, die der Sonne gegenwärtig (Stand 2019) näher stehen als Eris, obwohl deren Halbachsen größer sind. In etwa 800 Jahren wird Eris der Sonne für einige Zeit näher stehen als Pluto.
+Aufgrund der hohen Bahnneigung passiert Eris auf ihrer Bahn nur wenige Sternbilder im traditionellen Tierkreis; gegenwärtig (Stand 2019) befindet sie sich am Südhimmel im Sternbild Walfisch. Von 1876 bis 1929 befand sie sich im Bildhauer und zuvor von etwa 1840 bis 1875 im Phönix. Ab 2036 wird sie sich im Sternbild Fische befinden und ab 2065 dann ins Sternbild Widder eintreten. Ab da passiert sie die Ekliptik in Richtung Nordhimmel, wo sie ab 2128 ins Sternbild Perseus wechseln wird und 2173 ins Sternbild Giraffe, wo sie ihre nördlichste Position erreichen wird.
+
+
+Bahndynamische Einordnung
+Sowohl Marc Buie (DES) als auch das Minor Planet Center klassifizieren den Planetoiden als SDO; letzteres führt ihn auch allgemein als Distant Object.
+SDO sind Objekte, die durch gravitative Interaktionen mit dem Planeten Neptun in der Frühphase des Sonnensystems von ursprünglichen Bahnen im Kuipergürtel auf entferntere und ungewöhnliche Umlaufbahnen gelangt sind. Obschon Eris’ hohe Bahnneigung selbst für ein SDO ungewöhnlich ist, weisen theoretische Modelle darauf hin, dass Objekte, die sich ursprünglich am inneren Rand des Kuipergürtels befanden, auf höher geneigte Umlaufbahnen gelangt sind als Objekte des äußeren Randes. Für die Objekte des inneren Kuipergürtels wird generell eine höhere Masse als Objekte des äußeren Gürtels erwartet, daher erwarten Astronomen, größere Planetoiden auf hochgeneigten Umlaufbahnen zu finden, was übliche Durchmusterungen zur Planetensuche traditionell vernachlässigten.
+
+
+Physikalische Eigenschaften
+
+
+Größe und Masse
+
+Am 5. November 2010 konnte die Größe von Eris durch eine Okkultation mit 2326 ± 12 km Durchmesser recht genau bestimmt werden. Die Bedeckung war in Chile sichtbar und wurde von drei Teleskopen aufgezeichnet. Der Durchmesser ergibt sich aus den Bedeckungszeiten und den Abständen der Teleskope quer zur Beobachtungslinie. Dies ergibt eine Albedo von 0,96, die höher ist als bei jedem anderen großen Körper im Sonnensystem, mit Ausnahme von Enceladus, der eine Reflektivität von sogar 0,99 besitzt. Eris besitzt demnach weitgehend Kugelgestalt und galt damals als etwas größer als Pluto, dessen Durchmesser auf 2306 km geschätzt wurde. Mit der genaueren Vermessung von Pluto durch die Sonde New Horizons im Juli 2015 wurde der Durchmesser von Pluto auf 2374 km bestimmt, der daher um ein Geringes größer als Eris ist. Mike Brown geht dagegen noch immer davon aus, dass Eris mit 2330 km größer als Pluto mit 2329 km sei, basierend auf einer Albedo von ebenfalls 0,99 wie Enceladus und einer absoluten Helligkeit von −1,1 m. Die absolute Helligkeit von Eris beträgt nach derzeitigem (2019) Wissensstand −1,17 +0,06−0,11 m.
+Die Masse von Eris konnte durch die Bewegung des Mondes Dysnomia mit einiger Präzision berechnet werden: auf Basis der derzeit (Stand 2019) akzeptierten Umlaufperiode von Dysnomia von 15,8 Tagen beträgt ihre Masse etwa 0,27 % der Erdmasse; andererseits besitzt Eris etwa 27 % mehr Masse als Pluto, obschon dieser den größeren Durchmesser aufweist. Bezüglich seiner Masse rangiert Eris unter den Himmelskörpern, die die Sonne direkt umkreisen, auf dem neunten Rang und auf dem 16. Rang im gesamten Sonnensystem, da sieben Monde eine höhere Masse als Eris aufweisen. Daraus ergibt sich eine vergleichsweise hohe mittlere Dichte von 2,52 g/cm³, womit Eris wesentlich dichter als Pluto ist und ihr Gesteinsanteil daher höher ausfallen muss.
+
+
+Zur Geschichte der Größenbestimmung
+Um die Größe eines Objekts aus der scheinbaren Helligkeit zu bestimmen, die bei Eris an ihrer gegenwärtigen (Stand 2019) Position etwa 18,8m beträgt, müssen sowohl seine Entfernung als auch seine Albedo (Rückstrahlvermögen) bekannt sein. Dann lässt sich seine Größe berechnen; eine geringere Albedo führt bei gleicher scheinbarer Helligkeit zu einem größeren Wert des Durchmessers. Selbst bei einer höchstmöglichen Albedo von 1, also wenn sie sämtliches Licht reflektieren würde, wäre Eris nach Browns Berechnungen noch mindestens genauso groß wie Pluto damals geschätzt wurde. Da sie vom Spitzer-Weltraumteleskop nicht gefunden wurde, hieß es in ersten Meldungen, ihr Durchmesser müsse unter 3200 Kilometer liegen. Inzwischen stellte sich heraus, dass das Teleskop durch einen Bedienungsfehler nicht auf das Objekt ausgerichtet war.
+Die erste zuverlässige Messung der Größe gelang Anfang 2005 Radioastronomen des Max-Planck-Instituts für Radioastronomie in Bonn. Mithilfe des IRAM-Radioteleskops am Pico del Veleta in Südspanien maßen sie die Wärmestrahlung von Eris. In Kombination mit optischen Beobachtungen wurde die Albedo auf 0,60 ± 0,11 und daraus der Durchmesser auf 3000 ± 320 Kilometer eingegrenzt.
+Das Entdeckerteam erhielt 2005 Beobachtungszeit auf dem Hubble-Weltraumteleskop. Obwohl das Gerät bei einem Winkeldurchmesser eines Objektes von nur 0,035 Bogensekunden bereits an die Grenzen seiner Leistungsfähigkeit stößt, gelang es dem Team von Brown mittels Dekonvolution, die Größe von Eris auf 2400 ± 100 Kilometer zu bestimmen. Demzufolge war Eris kleiner als vorhergehende Messungen es vermuten ließen, etwa gleich groß wie Pluto. Hier wurde die Albedo von Eris zu 0,85 ± 0,07 bestimmt. 2010 folgte dann die Sternbedeckung, durch die ihre Größe dann zu 2326 km bestimmt werden konnte.
+
+
+Größenvergleich
+
+(anklickbare Grafik)
+
+
+Physikalische Einordnung: Der zehnte Planet?
+Die Medien bezeichneten Eris, wie bereits Quaoar und Sedna, als „zehnten Planeten“ (→ Transpluto). Die Entdecker und die NASA hielten es genauso. Eine solche Einordnung erschien aus Sicht der Experten plausibel, denn einerseits schien Eris sogar größer als Pluto zu sein, und andererseits waren für den Planetenstatus des letzteren bereits Merkmale der Planetendefinition – Schranken für die Exzentrizität sowie die Bedingung, dass ein Planet eine größere Masse als alle anderen Objekte in seinem Orbit zusammen haben müsse – ignoriert worden. Doch neigten viele Astronomen schon seit Ende der 1990er dazu, Pluto selbst nicht mehr zu den Planeten zu zählen; sie bezeichneten ihn stattdessen als das bis dahin größte transneptunische Objekt. Die Entdeckung von Eris entfachte von neuem die Debatte, nach welchen Merkmalen Himmelskörper als Planeten zählen sollen.
+Die 26. Generalversammlung der Internationalen Astronomischen Union im August 2006 in Prag verabschiedete daraufhin eine neue offizielle Definition für Planeten und Zwergplaneten. Demnach gelten Eris, Pluto und Ceres nun als Zwergplaneten. Der Status von Sedna und Quaoar ist noch ungeklärt. Gleichzeitig definierte man eine Unterklasse für transneptunische Zwergplaneten, die anfangs Plutonen genannt werden sollten. Diese Bezeichnung wurde noch zugunsten der neuen Bezeichnung Plutoiden verworfen, zu denen man neben Eris nun auch den Namensgeber Pluto rechnet.
+
+
+Rotation
+Anhand von Lichtkurvenbeobachtungen im Jahr 2008 rotiert Eris in 25 Stunden und 54 Minuten einmal um ihre Achse. Daraus ergibt sich, dass sie in einem Eris-Jahr 188704,6 Eigendrehungen („Tage“) vollführt. Dies ist allerdings noch mit einigen Unsicherheiten behaftet, da die damalige Beobachtungszeit nicht ausreichte und die Fehlerquote bei ungefähr 30 % liegt. Einem anderen Ergebnis zufolge würde sie dafür mit 14 Stunden fast halb so lange benötigen, was die Anzahl der Eris-Tage in ihrem Jahr auf 349103,5 Umdrehungen erhöhen würde. Letztere Variante wird jedoch als die unwahrscheinlichere angesehen. Insgesamt scheint über die Rotation noch viel Unsicherheit zu bestehen, zumal die Ergebnisse von 8 bis 32,5 Stunden reichen.
+Die aktuellen (Stand 2019) Farbindexe betragen B-V= 0,750 ± 0,020, V-R= 0,430 ± 0,020, V-I = 0,780 ± 0,010, B-R= 1,180 ± 0,020.
+
+
+Oberfläche und Atmosphäre
+
+Eris ist groß genug, um eine sehr dünne Atmosphäre aus Stickstoff, Methan oder Kohlenmonoxid halten zu können. Diese würde ähnlich wie bei Pluto periodisch mit steigendem Sonnenabstand und damit dem Absinken der Oberflächentemperatur auf der Oberfläche resublimieren, beim erneuten Ansteigen der Temperatur wieder sublimieren und erneut eine Atmosphäre bilden. Spektroskopische Beobachtungen am Gemini-Observatorium auf Hawaii durch das Entdeckerteam am 25. Januar 2005 weisen auf das Vorhandensein von gefrorenem Methan auf der Oberfläche von Eris hin. Weiterhin konnte an der Oberfläche gefrorener Stickstoff nachgewiesen werden, wobei sich dessen Konzentration nach Untersuchungen mit dem „Multiple Mirror Telescope“ auf dem Mount Hopkins in Arizona zwischen 2005 und 2007 signifikant veränderte.
+Im Unterschied zum dunkleren, rötlichen Pluto oder Triton weist Eris eine helle, weiße Färbung auf. Plutos Rotfärbung wird auf eine Bedeckung durch Ablagerungen von Tholine zurückgeführt; während sie die Oberfläche verdunkeln, führt die tiefere Albedo zu höheren Temperaturen und der Sublimation von Methanablagerungen. Die Präsenz des hochgradig flüchtigen Methans weist darauf hin, dass Eris sich schon immer in den entfernten Bereichen des Sonnensystems befunden haben muss, wo die Temperaturen kalt genug waren, um Methaneis auf der Oberfläche zu halten. In Eris’ weiter Entfernung zur Sonne kann Methan auch auf die Oberfläche in Gegenden mit niedrigerer Albedo kondensieren, so dass allfällige Tholinablagerungen überdeckt würden. Man schätzt die Oberflächentemperatur von Eris auf mindestens 30 K (etwa −243 °C) im Aphel. Sie ist damit nochmals deutlich niedriger als die von Pluto. Ursachen sind vor allem die hohe Albedo von 99 % und die größere Entfernung zur Sonne. Eris erfährt in einem Sonnenumlauf aufgrund ihrer Bahnexzentrizität eine Temperaturdifferenz von etwa 25 °C, was für ein TNO recht ungewöhnlich ist. Da Eris sich derzeit (Stand 2019) sehr nahe an ihrem sonnenfernsten Punkt aufhält, kann momentan keine Atmosphäre vorhanden sein.
+Ausgehend von einem Durchmesser von 2326 km ergibt sich eine Gesamtoberfläche von etwa 16.997.000 km², was knapp der Fläche Russlands entspricht. Eris ist zu weit entfernt, um mit den aktuell (Stand 2019) zur Verfügung stehenden Instrumenten Oberflächendetails auf ihr ausmachen zu können.
+
+
+Aufbau
+Einige Quellen sprechen von einer Zusammensetzung aus ungefähr 70 Prozent Gestein und 30 Prozent gefrorenem Wasser. Damit zeigt Eris mehr Ähnlichkeit mit Pluto und seinem Mond Charon als mit den anderen KBOs; die aufgrund der geringen Größe vermutete hohe Albedo stützt dies ebenfalls. Vor allem wegen des hohen Rückstrahlvermögens wird spekuliert, ob das Oberflächeneis aufgrund von Temperaturveränderungen durch die variable Entfernung zur Sonne durch interne Prozesse erneuert wird; aufgrund ihrer (im Vergleich zu geologisch aktiven Planeten wie der Erde) geringen Größe und ihrer Entstehung am äußeren Rand des Sonnensystems dürfte sie keine nennenswerten inneren Energiequellen besitzen. Die Gezeitenwärme des Mondes Dysnomia könnte die Temperatur auch geringfügig beeinflussen, sollte diese eine dafür ausreichende Masse besitzen. Modelle über innere Aufheizung durch radioaktiven Zerfall zeigen, dass Eris in der Lage sein könnte, einen Ozean aus flüssigem Wasser unter ihrer Oberfläche aufrechtzuerhalten.
+
+
+Mögliche Erforschung durch Raumsonden
+In den 2010ern wurden mehrere Studien vorgestellt, die im Zuge des erfolgreichen Pluto-Vorbeiflugs von New Horizons im Juli 2015 weitere Ziele zur Erforschung des Kuipergürtels und des transneptunischen Bereichs insgesamt vorsahen, und Eris gehörte ebenfalls zu den Kandidaten.
+2011 wurde berechnet, dass eine Vorbeiflugsmission zu Eris 24,66 Jahre benötigen würde; dazu wäre ein Swing-by an Jupiter vorgesehen, basierend auf Startdaten am 3. April 2032 oder am 7. April 2044. Eris wäre bei Ankunft der Sonde dann 92,03 rsp. 90,19 AE von der Sonne entfernt. Die Sonde würde Eris demnach 2056 bzw. 2068 erreichen.
+
+
+Mond Dysnomia
+
+Eris besitzt einen Mond namens Dysnomia, der am 10. September 2005 vom selben Team entdeckt wurde wie Eris und von der IAU im Oktober 2005 bekanntgegeben wurde. Da Dysnomia etwa den 500. Teil der Leuchtkraft von Eris besitzt, könnte der Durchmesser etwa bei 100 km liegen. Falls die Albedo von Dysnomia wesentlich kleiner wäre als die von Eris, könnte der Durchmesser bis zu 350 km oder mehr betragen. Dysnomia benötigt für einen Umlauf um den Zwergplaneten knapp 16 Tage, ihr Abstand zu Eris beträgt etwa 37.000 Kilometer.
+
+
+Siehe auch
+Planet Neun
+Liste von transneptunischen Objekten
+Liste der Zwergplaneten des Sonnensystems
+Liste der Monde von Planeten und Zwergplaneten
+Liste der Monde von Asteroiden
+Liste der Asteroiden
+
+
+Literatur
+C. Dumas, F. Merlin, M. A. Barucci, C. de Bergh, O. Hainault, A. Guilbert, P. Vernazza, A. Doressoundiram: Surface composition of the largest dwarf planet 136199 Eris (2003 UB313). In: Astronomy & Astrophysics. Band 471, Nr. 1. EDP Sciences, 2007, S. 331–334 (englisch). 
+Frank Bertoldi et al.: The trans-neptunian object UB313 is larger than Pluto. In: Nature. 439, Nr. 7076, 2005, S. 563–564. doi:10.1038/nature04494.
+M. E. Brown, C. A. Trujillo, D. L. Rabinowitz: Discovery of a planetary-sized object in the scattered Kuiper belt. In: The Astrophysical Journal. 635, 2005, L97–L100, doi:10.1086/499336, arxiv:astro-ph/0508633
+Mike Brown: Wie ich Pluto zur Strecke brachte. Und warum er es nicht anders verdient hat. Springer, Heidelberg 2012, ISBN 978-3-8274-2944-5.
+R. Vaas: Der zehnte Planet. In: Naturwissenschaftliche Rundschau. Nr. 1, 2006, S. 5–13.
+
+
+Weblinks
+
+Mike Browns Website über 2003 UB313 (englisch)
+ESO: Eris, die ferne Zwillingsschwester des Pluto +Animationen – 26. Oktober 2011
+
+
+Medienberichte
+Der zehnte Planet – oder auch nicht – Wie definiert man einen Planeten? Neuer Himmelskörper bringt frischen Schwung in alte Debatte
+Zehnter Planet „Xena“ hat einen Mond mit dem Spitznamen „Gabrielle“
+Meldung des ORF
+
+
+Einzelnachweise

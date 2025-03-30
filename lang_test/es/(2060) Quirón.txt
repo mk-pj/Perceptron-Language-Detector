@@ -1,0 +1,85 @@
+Tytuł: (2060) Quirón
+
+Quirón (símbolo: ⚷) es el cuerpo menor del sistema solar número 2060 que orbita en el sistema solar exterior entre las órbitas de Saturno y Urano. Descubierto el 1 de noviembre de 1977 por Charles Thomas Kowal desde el Observatorio Palomar de Estados Unidos, fue el primer miembro identificado de una nueva categoría de objetos conocidos en la actualidad como centauros. 
+Aunque inicialmente se le consideró un asteroide y se clasificó únicamente como un planetoide con la designación (2060) Quirón, en 1989 se descubrió que exhibía un comportamiento típico de un cometa. En la actualidad se clasifica como un planetoide y un cometa, por lo que también es conocido por la designación cometaria 95P/Quirón.
+Debe su nombre a Quirón, un centauro de la mitología griega caracterizado por su inteligencia y sabiduría.
+
+
+Historia
+
+
+Descubrimiento
+Quirón fue descubierto el 1 de noviembre de 1977 por Charles Thomas Kowal a partir de imágenes tomadas el 18 y 19 de octubre de 1977 en el Observatorio Palomar de Estados Unidos.[3]​ Fue inicialmente designado como 1977 UB.[4]​[5]​[6]​ En el momento de su descubrimiento se encontraba en su afelio,[7]​ y fue el planeta menor más lejano conocido,[a]​[4]​ llegando a ser reclamado por la prensa como el 10.º planeta.[8]​ Posteriormente, se encontraron varias imágenes por el método precovery que se remontaban al abril de 1895,[9]​ las cuales permitieron determinar con exactitud su órbita.[10]​ A su vez, permitió estimar que dicha imagen fue captada un mes después de su perihelio.[11]​ En 1945 volvió a encontrarse en su perihelio pero no se detectó porque las pocas exploraciones de entonces no eran sensibles a los movimientos lentos de los objetos. La búsqueda de planetas distantes del Observatorio Lowell no profundizó lo suficiente en los años 30 y no cubrió la región precisa del cielo en los años 40.[5]​
+
+
+Designación
+Este planeta menor lleva el nombre de Quirón, un centauro de la mitología griega. Hijo del titán Crono y de la oceánide Filira, Quirón fue el más sabio y justo de todos los centauros, sirviendo como instructor de multitud de héroes griegos. La designación oficial fue publicada por el Centro de Planetas Menores el 1 de abril de 1978 (M.P.C. 4359).[12]​ Al ser Quirón uno de los centauros, se sugirió que se reservasen los nombres de los demás centauros para los objetos del mismo tipo.[13]​
+Quirón, junto con la mayoría de los cuerpos planetarios mayores y menores, generalmente no recibe un símbolo en astronomía. Al H. Morrison ideó el símbolo ⚷ para él, usándose principalmente entre los astrólogos: se parece a una llave y también a un monograma OK para Objeto Kowal.[14]​[15]​
+
+
+Características orbitales
+Se observó que la órbita de Quirón era altamente excéntrica (0,37), con un perihelio justo dentro de la órbita de Saturno y un afelio justo por fuera del perihelio de Urano (sin embargo no llega a alcanzar la distancia media de Urano). De acuerdo con el programa Solex, la máxima aproximación de Quirón a Saturno fue en mayo del año 720, cuando se acercó a 30,5 ± 2,0 millones de km (0,204 ± 0,013 ua) de este. Durante este paso, la gravedad de Saturno hizo que el semieje mayor de Quirón disminuyese de 14,4 ± 0,12 ua[16]​ a 13,7 ua,[1]​ en cambio no se acerca tanto a Urano —Quirón cruza la órbita de Urano cuando este se encuentra más alejado del Sol—.
+Atrajo mucho interés ya que fue el primer objeto descubierto con semejante órbita, muy lejos del cinturón de asteroides. Quirón está clasificado como un centauro, el primero del grupo de objetos que orbita entre los planetas exteriores. Se puede clasificar a Quirón como un objeto SU ya que en su perihelio está dentro de la zona de control de Saturno y en su afelio dentro de la zona de control de Urano.[17]​ Los centauros no permanecen en órbitas estables y al cabo de millones de años acaban siendo expulsados por la perturbación gravitatoria de los planetas gigantes, trasladándolos a otras órbitas o abandonando el sistema solar por completo.[18]​ Es probable que Quirón provenga del cinturón de Kuiper y previsiblemente se convertirá en un cometa de periodo corto en alrededor de un millón de años.[19]​
+Quirón alcanzó su perihelio y su afelio con respecto al Sol en febrero de 1996 y en mayo de 2021, respectivamente.[20]​[21]​
+
+
+Características físicas
+
+
+Tipo espectral
+El espectro visible e infrarrojo cercano de Quirón es neutro,[22]​ y es similar a los asteroides de tipo C, es decir con un alto contenido carbónico. Es el tipo más común de asteroides y conforman alrededor del 75 % de los conocidos. También es similar al núcleo del cometa Halley.[23]​ El espectro infrarrojo cercano de Quirón muestra la ausencia de hielo de agua.[24]​
+
+
+Período de rotación
+Se tomaron cuatro curvas de luz de rotación de Quirón a raíz de observaciones fotométricas realizadas entre 1989 y 1997. El análisis de la curva de luz dio un período de rotación concurrente y bien definido de 5,918 horas con una pequeña variación de brillo de 0,05 a 0,09 de magnitud, lo que indica que el cuerpo tiene una forma más bien esferoidal (U=3/3/3).[25]​[26]​[27]​[28]​
+
+
+Diámetro
+
+El tamaño supuesto de un objeto depende de su magnitud absoluta (H) y el albedo (la cantidad de luz que refleja). En 1984, Lebofsky estimó que Quirón tenía unos 180 km de diámetro.[29]​ Las estimaciones de los 80 se acercaron a los 150 km de diámetro.[37]​ En 1993 se obtuvieron datos mediante ocultación de estrellas que sugerían un diámetro de unos 180 km.[32]​ Los datos combinados del telescopio espacial Spitzer en 2007 y el Observatorio Espacial Herschel en 2011 sugieren que Quirón tiene 218 ± 20 km de diámetro.[34]​ Por lo tanto, Quirón puede tener un tamaño similar a (10199) Cariclo. El diámetro de Quirón es difícil de estimar en parte porque la verdadera magnitud absoluta de su núcleo es incierta debido a su actividad cometaria altamente variable.[34]​
+
+
+Comportamiento cometario
+En febrero de 1988, a 12 ua del Sol, el brillo de Quirón alcanzó el 75 %,[38]​ siendo este hecho un comportamiento típico de los cometas pero no de los asteroides. Otras observaciones efectuadas en abril de 1989 mostraron que Quirón había desarrollado una coma cometaria,[39]​ y detectándose la cola en 1993.[4]​ Quirón se diferencia de otros cometas en que el agua no es el componente principal de su coma, ya que está demasiado lejos del Sol como para que el agua se sublime.[40]​[41]​ En 1991, se detectó cianuro en el espectro de Quirón,[42]​ y en 1995, se detectó monóxido de carbono en cantidades muy pequeñas y calculándose que la tasa de producción de CO derivada era suficiente para explicar la coma observada.[43]​ En el momento de su descubrimiento, Quirón estaba cerca de su afelio, mientras que las observaciones mostrando la coma se realizaron cerca del perihelio, explicando quizás por qué no se detectó antes el comportamiento cometario. El hecho de que Quirón siga todavía activo parece indicar que no lleva mucho tiempo en esa órbita.[9]​
+Es posible que la coma sea producida, sin embargo, no por un efecto del viento solar, sino por un impacto. Basado en modelos de un coma que decae exponencialmente, iniciando su decadencia entre 1970 y 1973.[44]​ También se cree que es posible que este asteroide posea anillos, de forma similar al asteroide (10199) Cariclo y se ha calculado que el radio medio de los anillos es (324 +/- 10) km.[45]​
+Quirón se designa oficialmente como cometa —95P/Quirón— y como planeta menor,[46]​[34]​ un indicativo de que algunas veces la línea divisoria entre dos tipos de objeto es muy difusa. También se le ha descrito con el término proto-cometa. Con unos 220 km de diámetro, es inusualmente grande para un  núcleo cometario. Quirón fue el primer miembro de una nueva familia de cometas tipo Quirón (cTQ) con (TJúpiter > 3; a > aJúpiter).[b]​[47]​ Michael E. Brown lo enumera como un planeta enano potencial con un diámetro medido de 200 km,[36]​ que puede estar cerca del límite inferior para que un objeto helado haya sido un planeta enano en algún momento de su historia.
+Desde el descubrimiento de Quirón, se han descubierto otros centauros, y casi todos ellos están clasificados como asteroides pero están siendo observados ante un posible comportamiento cometario. (60558) Equeclo ha mostrado una coma y ya tiene la designación cometaria 174P/Echeclus. Después de alcanzar el perihelio a principios del 2000, el centauro (52872) Ocírroe brilló de manera significativa,[48]​ tal y como hizo Quirón a principios de 1988.
+
+
+Anillos
+
+Es posible que Quirón tenga anillos, similares a los mejor establecidos de (10199) Cariclo.[c]​[49]​[50]​ Con base en eventos de ocultación inesperados observados en los datos de ocultación estelar obtenidos el 7 de noviembre de 1993, el 9 de marzo de 1994 y el 29 de noviembre de 2011, que inicialmente se interpretaron como resultado de chorros asociados con la actividad similar a un cometa como Quirón, se propone que los anillos de Quirón tienen 324 ± 10 km de radio y muy definido. Su apariencia cambiante en diferentes ángulos de visión puede explicar en gran medida la variación a largo plazo en el brillo de Quirón y, por lo tanto, las estimaciones del albedo y su tamaño. Además, al suponer que el hielo de agua está en los anillos de Quirón, puede explicar la variación de la intensidad de las bandas de absorción de hielo de agua infrarroja en su espectro, incluyendo su desaparición en 2001 (cuando los anillos estaban bordeados). Igualmente, el albedo geométrico de los anillos de Quirón determinado por espectroscopia es consistente con el que se usa para explicar las variaciones de su brillo a largo plazo.[49]​
+El polo preferido de los anillos de Quirón, en coordenadas eclípticas, es: λ 144° ± 10°, β 24° ± 10°. El ancho, la separación y las profundidades ópticas de los anillos son casi idénticos a los de los anillos de Cariclo, lo que indica que el mismo tipo de estructura es responsable de ambos. Además, ambos anillos están dentro de sus respectivos límites de Roche.[49]​
+Las observaciones de una ocultación el 15 de diciembre de 2022 proporcionaron más pruebas de los anillos.[51]​
+
+
+Exploración
+La Chiron Orbiter Mission es una misión propuesta para el programa New Frontiers o Flagship de la NASA. Fue publicado en mayo de 2010 y propone una misión orbital a Quirón. Su fecha de lanzamiento podría variar desde 2023 hasta 2025, según el presupuesto y el tipo de propulsión.[52]​
+En 2019, se propuso una misión parte del programa Discovery conocida como Centaurus, la cual fue desestimada a principios de 2020 por la NASA;[53]​ si se hubiese aprobado, se habría realizado entre 2026 y 2029 y habría sobrevolado Quirón y 29P/Schwassmann-Wachmann en algún momento de la década de 2030.
+Existió una propuesta de sobrevolar 2060 Quirón, dentro del contexto de la misión Plutón Fast Flyby.
+[54]​ Sin embargo esta misión se canceló, y algunos de sus objetivos e ideas formaron parte de la misión New Horizons.
+
+
+Referencias culturales
+Quirón es mencionado durante el capítulo 24 de la primera temporada de la serie de televisión estadounidense Alf.
+
+
+Véase también
+Lista de asteroides del (2001) al (2100)
+Cuerpo menor del sistema solar
+
+
+Notas
+
+
+Referencias
+
+
+Bibliografía
+
+
+Enlaces externos
+Ficha de (2060) Quirón en la JPL Small-Body Database .
+Ficha de (2060) Quirón en ESA–SSA: ·Efemérides·Observaciones·Propiedades de la órbita·Propiedades físicas·Resumen
+«(2060) Chiron» (en inglés). Centro de Planetas Menores. Consultado el 16 de agosto de 2023. 
+SOLEX 9.1

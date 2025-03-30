@@ -1,0 +1,331 @@
+Tytuł: .Net-Framework
+
+Das .Net-Framework (Eigenschreibweise: .NET Framework) ist ein Teil von Microsofts Software-Plattform .NET und erfüllt als solcher seine Funktion bei der Entwicklung und Ausführung von Programmen, die das Framework einbinden und verwenden. Das Framework von .NET bietet sowohl eine Laufzeitumgebung für die Ausführung, als auch eine Programmbibliothek für die Entwicklung von Programmen. Für den Endanwender ist das .Net-Framework eine Middleware, ohne die Software und Anwendungen, die das .Net-Framework benutzen, nicht lauffähig sind.
+Seit Windows Vista wird das .Net-Framework zusammen mit dem Betriebssystem installiert. Seit seiner Einführung wird das Framework über Windows Update von Microsoft gepflegt.
+Das Framework vereinheitlichte und modernisierte die Methodik der Anwendungsentwicklung für das Microsoft-Betriebssystem, für das es bis zur Einführung von .NET Core exklusiv zur Verfügung stand. Es besteht aus Schnittstellen für das Betriebssystem und Programmbibliotheken, unter anderem für Dateizugriffe, Netzwerkkommunikation, Datenbankzugriffe, Grafik und grafische Benutzeroberflächen, aber auch für immer wieder verwendete Programmteile, wie zum Beispiel die für Passwörter wichtigen Hashfunktionen, Zeit- und Datumsberechnung sowie -konvertierung oder Funktionen aus der alltäglichen Mathematik. Auch komplexere Programmabläufe wie die gleichzeitige Ausführung von Programmteilen zur besseren Nutzung von heute handelsüblichen Mehrkernprozessoren können mit dem Framework einfacher und weniger fehleranfällig realisiert werden.
+.NET-Anwendungen waren bis zur Einführung von .NET 8 keine selbstständig lauffähigen Programme, da sie nicht direkt in Maschinensprache übersetzt werden, die von einem Prozessor nativ ausgeführt werden könnte. Aus diesem Grund wird das .Net-Framework für ihre Ausführung benötigt. Im November 2020 wurden .NET Core, .NET Standard und .Net-Framework für die weitere Entwicklung als einheitliche Plattform unter der Bezeichnung .NET 5.0 zusammengeführt. Unter .Net-Framework 4 erstellte Programme sollen aber dauerhaft auf den Betriebssystemversionen Windows 7 / 8 / 10 / 11 lauffähig bleiben.
+
+
+Entstehungsgeschichte
+Die Entwicklung der .NET-Plattform wurde als notwendig angesehen, um die in die Jahre gekommenen Konzepte von Windows durch neue zu ersetzen, war jedoch auch das Ergebnis des Rechtsstreits von Microsoft mit Sun über Java. Microsoft hatte das von Sun entwickelte Java-System adaptiert und es nach eigenen Bedürfnissen erweitert, was die Plattformunabhängigkeit von Java-Applikationen beeinträchtigte. Als Sun das unter anderem durch Gerichtsverfügung unterband, änderte Microsoft seine Strategie. Zudem war es Microsoft bis zur Entwicklung von .NET nicht gelungen, im lukrativen Markt für mobile Kleingeräte Fuß zu fassen.
+
+Zudem hatten sich mit der Zeit verschiedene, zueinander inkompatible Softwaresysteme für Windows entwickelt. Die drei für Windows meistverwendeten Programmiersprachen C++, Visual Basic sowie die Microsoft-Implementierung einer Java-Syntax, J++, waren zueinander nicht kompatibel und die Zusammenarbeit über verschiedene Brücken erwies sich als sehr kompliziert.
+
+
+Zeichenketten und ANSI/Unicode
+Die Datentypen für Zeichenketten (engl. „strings“) waren nicht binärkompatibel zueinander. Wollte man solche über zwei Softwaresysteme hinweg schreiben, so musste man Laufzeiteinbußen wegen Konvertierungsfunktionen hinnehmen. Verschärfend kam die Koexistenz von ANSI und Unicode hinzu. Viele Programme unterstützten kein Unicode oder wurden dafür noch nicht ausgerüstet. .NET verwendet einheitlich Unicode für Zeichenketten.
+
+
+Speicherverwaltung
+Jede Entwicklungsplattform besaß ein eigenes System für die Verwaltung des Speichers. J++ und Visual Basic besaßen eine automatische Speicherverwaltung; das heißt, der Programmierer überließ (weitgehend) dem System die Verwaltung des Speichers. Visual C++ hingegen besaß keine Speicherverwaltung, der Programmierer musste sich selbst darum kümmern.
+
+
+Offenlegung des Quellcodes
+Am 17. Januar 2008 veröffentlichte Microsoft den Quelltext des Frameworks unter der restriktiven Microsoft Reference License. Zu diesem Schritt entschloss sich Microsoft bereits im Oktober 2007, als Sun Microsystems sein Produkt Java unter der GNU GPL mit eigenen Zusatzklauseln zur Verfügung stellte.
+Ende 2013 gründeten Microsoft, Xamarin (Mono) und andere die .NET Foundation als neuer Rechteinhaber und Lizenzgeber des .Net-Frameworks. Seitdem sind fast alle Rechte an der .NET-Klassenbibliothek von Microsoft an die .NET Foundation übertragen worden. Unter dem Dach der .NET Foundation werden mit Stand 2014 30 Projekte verwaltet.
+
+
+Verhältnis zu Mono
+Teile der Open-Source-Community sahen in der Offenlegung unter der damaligen restriktiven Lizenz eine Gefahr für das Projekt Mono, welches .NET-Anwendungen unter Linux teilweise verfügbar macht. Microsoft hatte 2007 noch behauptet, das Projekt enthalte Quellcode aus dem .NET-Framework. Da das Framework und Mono gleichermaßen .NET implementieren, befürchtet man nun zwangsweise starke Ähnlichkeiten im Quellcode.
+Das umstrittene Patentabkommen zwischen Microsoft und Novell (dem ehemaligen Projektträger von Mono) schützt derzeit sowohl die Community unter Novell als auch Microsoft vor gegenseitigen Patentansprüchen.
+Mit der Gründung der .NET Foundation und der Übertragung der Rechte und Quellcodes an die Foundation arbeitet Microsoft mit Xamarin (Mono) aktiv zusammen, um .NET auf unterschiedlichen Plattformen bereitzustellen. Durch die Offenlegung der Quellcodes unter der MIT-Lizenz bzw. Apache 2.0 Lizenz ist der Quellcode des .NET-Frameworks nahezu beliebig – sprich auch in Closed-Source-Projekten – verwendbar. Lizenz- und patentrechtliche Auseinandersetzungen sind somit kaum noch möglich und somit auch nicht mehr zu befürchten.
+
+
+Chronik der .NET-Framework-Entwicklung
+
+
+Konzept und Bestandteile
+Die .NET-Plattform ist die Umsetzung des Common-Language-Infrastructure-Standards (CLI) und stellt mit diesem eine Basis zur Entwicklung und Ausführung von Programmen dar, die mit unterschiedlichen Programmiersprachen auf verschiedenen Plattformen erstellt wurden. Hauptbestandteile sind die (objektorientierte) Laufzeitumgebung Common Language Runtime (CLR), die Base Class Library (BCL) sowie diverse Hilfsprogramme zum Beispiel zur Rechteverwaltung.
+Mit .NET löste Microsoft zuvor eingesetzte Softwareentwicklungskonzepte wie das Component Object Model ab, bis es COM in einer erweiterten Form unter dem Namen Windows Runtime reaktivierte. Seitdem plant Microsoft den parallelen Einsatz beider Frameworks für die Betriebssystemgeneration um Windows 8.
+
+
+Common Language Runtime
+
+Die Common Language Runtime (CLR) ist die Laufzeitumgebung des .Net-Framework und enthält den JIT-Compiler für den standardisierten Zwischencode, die Common Intermediate Language (CIL). Die CIL hieß früher Microsoft Intermediate Language (MSIL), wurde aber im Rahmen der Standardisierung durch die Ecma International umbenannt. Für sie wurde ein sprachübergreifendes System von objektbasierten Datentypen definiert, so dass für alle Hochsprachen, die sich an den Common Language Infrastructure-Standard (CLI) halten, gültiger CIL-Bytecode erstellt werden kann.
+.NET wurde von Anfang an dafür entwickelt, dass Programmierer in unterschiedlichen Programmiersprachen arbeiten können. Jede dieser Hochsprachen wird von .NET dann in die CIL übersetzt.
+Das Besondere an der CLR ist weniger die technische Innovation als vielmehr die strategische Entscheidung von Microsoft für ein laufzeitbasiertes System. Es soll unter anderem helfen, Systemabstürze zu vermindern, da die Runtime Applikationsfehler abfangen kann. Damit entschied sich Microsoft erstmals gegen die bisher angewandte direkte Kompilierung in den Maschinencode des Zielsystems. Zusammen mit der Marktmacht von Java und dem Erfolg von Skriptsprachen ist damit ein Trend zu identifizieren. Dieser stellt einen Bruch mit den direktkompilierenden Programmiersprachen (insbesondere C++ und C) dar.
+Mittels Reflection ist es möglich, zur Laufzeit Programmcode über ein Objektmodell zu generieren und es direkt im Speicher in lauffähigen Code zu überführen.
+Die .NET-Terminologie unterscheidet dabei zwischen Bytecode, welcher von der CLR verwaltet und in Maschinensprache umgesetzt wird („verwalteter Code“), und Teilen, die nicht innerhalb der CLR ausgeführt werden („nicht verwaltet“). Daneben gibt es noch die Möglichkeit in .NET sogenannten „unsicheren Code“ (oder „Code im unsicheren Kontext“) zu schreiben, um weiterhin z. B. klassische Zeiger-Operationen unmittelbar auf einem Speicherbereich durchführen zu können.
+
+
+Interop-Technik
+
+Mit Hilfe der Interop-Technik lassen sich alle klassischen, binär kompilierten Windows-Bibliotheken mit .NET-Kapseln (oder auch mit sogenannten Wrappern) versehen und danach deren Programmfunktionen wie „normale“ .NET-Programmfunktionen aufrufen. Technisch gesehen gibt die CLR allerdings im Moment des Aufrufs einer Funktion einer nicht überwachten DLL einen großen Teil der Kontrolle über den Programmfluss ab.
+Umgekehrt lassen sich auch .NET-Funktionen wie COM-Funktionen aufrufen. Damit soll eine fließende Migration von Software-Projekten auf .NET ermöglicht werden und die Integration von .NET-Modulen in eine bestehende Umgebung erleichtert werden.
+
+
+Sicherheit
+Eines der wichtigsten Konzepte von .NET ist die Sicherheit.
+Das Sicherheitskonzept beginnt bei Mechanismen, die die Identität des Programmherstellers gewährleisten sollen (Authentizität), geht über in solche zum Schutz der Programme vor Veränderung (Integrität) und reicht bis hin zu Techniken, die den Ort der Herkunft bzw. Programmausführung (zum Beispiel das Internet) einbeziehen. Es gibt sowohl ein codebasiertes (Code-based Security) als auch ein nutzerbasiertes (Role-based Security) Sicherheitsmodell.
+
+
+Attribute
+Eine programmiertechnisch interessante Neuerung von .NET ist die Einführung von Attributen: gekennzeichnete Metadaten als Bestandteil der Programmiersprache. Beispielsweise können im Rahmen der komponentenbasierten Programmierung Komponenteneigenschaften ausgedrückt werden. Für die Verteilung, Installation und Konfiguration, für die Sicherheit, für Transaktionen und andere Programme können dem Code beschreibende Eigenschaften hinzugefügt werden.
+Innerhalb eines Programmes kann mit Hilfe von Reflection auf die Attribute eines .NET-Programms und die in ihr enthaltenen Elemente zugegriffen werden.
+Dieses Konzept wurde später unter anderem in Java übernommen, wo es in Form sogenannter Annotations verwirklicht ist.
+
+
+Verteilte Programmierung und Web Services
+.NET ab Version 3.0 enthält die Windows Communication Foundation zur Kommunikation in verteilten Systemen. Diese geben Entwicklern die Möglichkeit, Probleme, die bis dahin mit folgenden Technologien des .NET-Frameworks gelöst werden konnten, über ein einheitliches Programmiermodell zu lösen.
+
+ASP.NET Web Services (ASMX) mit Web Service Enhancements (WSE) extensions
+Microsoft Message Queue (MSMQ)
+Enterprise Services/COM+ runtime environment
+.NET Remoting
+
+
+Sprachneutralität und gemischtsprachige Programmierung
+Die Common Language Specification (CLS) definiert als eine gemeinsame Untermenge den Bytecode der CIL, der von der virtuellen Laufzeitumgebung (VM) in den Maschinencode der Zielmaschine übersetzt und ausgeführt werden kann. Somit ist es möglich, .NET mit verschiedenen, an die CLR angepassten Sprachen zu programmieren. Von Microsoft zum Beispiel schon im Visual Studio mitgeliefert sind das, neben der von Microsoft für .NET eingeführten Sprache C#, die Sprachen C++/CLI, das proprietäre Visual Basic .NET sowie J# (eine Portierung von Microsofts veränderter Java-Implementierung) und abschließend – nicht zu verwechseln mit J# – JScript .NET. Außerdem wurde mit Visual Studio 2010 die funktionale Programmiersprache F# eingeführt.
+Insbesondere das vereinheitlichte Typsystem (Common Type System), das eine gemeinsame Schnittmenge an Datentypen beschreibt, sorgt für ein reibungsloses Zusammenspiel beim Aufruf von in einer anderen Sprache geschriebenen Komponenten. Das stellt einen wichtigen Fortschritt dar, da man unter Visual Basic 6 unter Umständen gezwungen war, Funktionen, die nicht in Visual Basic implementiert werden konnten, in Visual C++ zu programmieren. In diesem Fall gab es immer Schwierigkeiten bei der Zuordnung der Datentypen von Visual Basic zu den entsprechenden Datentypen unter C++. Auch bei der Programmierung von COM-Komponenten in C++ musste man als Programmierer mit einem eingeschränkten Satz von Datentypen auskommen, die zur Automation benutzt werden konnten. Außerdem wurden Zeichenketten unter C++ und Visual Basic 6 intern unterschiedlich gespeichert, was die Programmierung erschwerte.
+Die Vorteile der Unterstützung gemischtsprachiger Programmierung von .NET sind nicht unumstritten. Beispielsweise ist die Wartbarkeit eines Projektes, welches in mehreren Sprachen implementiert wurde, schlechter als bei der Entwicklung mit nur einer Sprache.
+Neben den von Microsoft für die .NET-Plattform angepassten Sprachen C#, Visual Basic .NET, F# und C++/CLI (Managed C++) werden weitere .NET-Sprachen von Drittanbietern zur Verfügung gestellt (zum Beispiel Delphi Prism von Embarcadero, aber auch weniger bekannte Sprachen wie APL von Dyalog).
+Die für .NET bereitgestellte IDE von Microsoft, das Visual Studio .NET, bietet die Möglichkeit, weitere Sprachen von Drittanbietern in ein Projekt einzubinden und somit deren Funktionalität zu nutzen. Dass die Entwicklung in einer konsistenten Entwicklungsumgebung stattfindet und es nicht für jede Sprache eine eigene IDE gibt, ist zusätzlich von Vorteil.
+
+
+Plattformunabhängigkeit
+Die angestrebte Plattformunabhängigkeit wäre unter .NET grundsätzlich möglich, Microsoft selbst hatte 2002 für die erste Version von .NET eine eingeschränkte (und nicht mehr aktuelle) .NET-Variante namens Shared Source CLI (SSCLI) für macOS und FreeBSD zur Verfügung gestellt. 2006 folgte die Version 2.0 von SSCLI für .NET 2.0, die aber nur noch auf Windows XP SP2 lauffähig ist.
+Mehrere von Microsoft quasi unabhängige Open-Source-Projekte haben sich einer entsprechend flexiblen Implementierung der Rahmenkomponenten auf Grundlage des ECMA-Standards angenommen. Das am weitesten entwickelte Projekt ist Mono, das vom Hersteller Ximian initiiert wurde. Das dotGNU-Projekt, welches an einer Portable.NET genannten Laufzeitumgebung arbeitete, wurde dagegen eingestellt.
+Beide Implementierungen sind jedoch noch nicht auf dem Entwicklungsstand des heutigen .NET. Zwar hat Mono mit der Version 2.0 einen wichtigen Meilenstein, nämlich die Kompatibilität mit den nicht-windowsspezifischen Bibliotheken von .NET 2.0, erreicht. Auf der anderen Seite gibt es viele Programme, die P-Invoke oder COM Interop benutzen, d. h. auf Bibliotheken zugreifen, die nicht in IL-Code, sondern in normalem, prozessorspezifischen Maschinencode vorliegen. Zwar kann auch Mono auf Bibliotheken zugreifen, die in C oder C++ geschrieben sind, allerdings sind die meisten dieser Bibliotheken plattformabhängig. Weiterhin hat Microsoft mit .NET 3.0 und .NET 3.5 gravierende Weiterentwicklungen des Frameworks veröffentlicht, die von Mono bzw. dotGNU bis dato noch nicht oder nur teilweise implementiert wurden, aber in Arbeit sind. Explizit ausgenommen wurde die Windows Presentation Foundation, die auf absehbare Zeit nicht reimplementiert werden wird. Allerdings wird es trotzdem Unterstützung für XAML geben.
+
+
+Laufzeitumgebung
+Verwalteter oder auch managed Code wird, wie oben erwähnt, von der Laufzeitumgebung Common Language Runtime (CLR) verwaltet. Diese virtuelle Maschine übernimmt die Anforderung und Freigabe von Speicher und anderen Ressourcen (automatische Speicherbereinigung, engl. garbage collection) und stellt sicher, dass geschützte Speicherbereiche nicht direkt angesprochen oder überschrieben werden können. Wie oben unter Sicherheit beschrieben, können auch Zugriffe auf Dienste, Dateisystem-Funktionen oder Geräte überwacht und, sofern sie gegen Sicherheitsrichtlinien verstoßen, von der CLR abgelehnt werden.
+
+
+Ausführungsgeschwindigkeit
+Für den Erfolg von .NET war und ist es wichtig, die Entwicklergemeinde von C++ für .NET zu gewinnen. Daher war Geschwindigkeit bei .NET von Anfang an ein wesentliches Entwurfsziel.
+Durch verschiedene Techniken wird versucht, den negativen Einfluss der CLR auf die Ausführungsgeschwindigkeit möglichst klein zu halten. Zum Beispiel wurden analog zu Java sogenannte JIT-Compiler eingeführt, die einen Mittelweg zwischen Interpretation und Kompilierung gehen. Außerdem kann man mit .NET als Neuerung auch Programme in bereits kompiliertem Code, als sogenanntes „natives Image“ installieren. Das wirkt sich insbesondere auf die erstmaligen Ladezeiten bei Programmen mit größeren Klassenmengen aus. Weiterhin kann der Speicherbedarf reduziert werden, wenn mehrere Programme dieselbe Assembly nutzen bzw. das Programm mehrfach gestartet wird (Terminalserver), da die nativen Images im Gegensatz zu JIT-Code zwischen den Programmen über gemeinsam genutzten Speicher (engl. shared memory) geteilt werden. Der Gewinn an Ausführungsgeschwindigkeit durch native Images muss durch sorgfältige Messungen („profiling“) analysiert werden. Der Einsatz von nativen Images erfordert weitere Planungsschritte bei der Entwicklung der Software, zum Beispiel eine sorgfältige Auswahl der DLL-Basisadresse der Assemblies, um eine Relokation der DLLs zu verhindern. Schließlich müssen die Assemblies auch im GAC installiert werden, um anhand der Identität die Integrität der Images garantieren zu können. Wird das nicht beachtet, führt die Relokation bzw. die Identitätsprüfung der Assembly zu weiteren Ausführungszeiten, die den Vorteil der nativen Images wieder zunichtemachen.
+Die automatische Ressourcenverwaltung und die verbesserte Sicherheit haben dennoch ihren Preis – die Ausführung von managed code hat einen erhöhten Ressourcenbedarf und benötigt mehr Zeit. Außerdem sind die Antwortzeiten auf Programm-Ereignisse wesentlich schwieriger zu kalkulieren und zum Teil deutlich größer, was die Anwendbarkeit in Echtzeitsystemen stark einschränkt.
+Ein Grund dafür ist die automatische Speicherbereinigung, die Garbage Collection, die automatische Freigabe nicht mehr benötigten Speichers und anderer Ressourcen. Im Regelfall entscheidet der Garbage Collector, wann der Speicher aufgeräumt werden soll. Der Entwickler kann aber den Zeitpunkt der Speicherbereinigung auch selbst festlegen.
+Während das einerseits, durch die Zusammenfassung der Freigabeoperationen, die Ausführungsdauer von Programmläufen verringern kann, können andererseits die Antwortzeiten auf Ereignisse dadurch in Mitleidenschaft gezogen werden. Das ist besonders für kleinere Maschinen nachteilig und stellt, vor allem im Hinblick auf die Marktausrichtung zu mobilen Kleingeräten, ein Problem dar.
+.NET wird inzwischen auch bei performancekritischen Programmen, zum Beispiel Computerspielen (zum Beispiel mit dem XNA Framework), Animationsprogrammen, Konstruktionsprogrammen und ähnlichen, hochaufwendigen Programmen genutzt, da viele Programmierer der Meinung sind, dass aktuelle Systeme durch ihre höhere Geschwindigkeit den durch .NET bedingten Leistungsverlust ausgleichen.
+Auf der anderen Seite steht die Meinung, dass die Qualität und Effizienz der traditionellen Softwareentwicklung zu wünschen übrig lassen und dass die diesbezüglichen Vorteile durch obige Verfahren deren Nachteile in der Regel aufwiegen. Im Allgemeinen wird dabei von einer asymmetrischen Verteilung ausgegangen, dass zum Beispiel 90 Prozent einer durchschnittlichen Anwendung problemlos „managed“, das heißt, auch mit automatischer Speicherbereinigung ausgeführt werden können, und lediglich 10 Prozent (zum Beispiel einzelne Funktionen oder Klassen) optimiert werden müssen.
+Nicht zuletzt können Programme auch in Hinblick auf die Ausführungsgeschwindigkeit im Zusammenspiel mit automatischer Speicherbereinigung optimiert werden.
+
+
+Klassenbibliothek
+Die Framework Class Library (FCL) umfasst z. B. in der Version 3.5 bereits etwa 11.400 Klassen und andere Datentypen, die in mehr als 300 sogenannte Namensräume (Namespaces) unterteilt sind. Im Vergleich zur ersten Version 1.0 mit 3.581 Datentypen in 124 Namensräumen ist das ein deutlicher Anstieg. Die Klassen erfüllen Aufgaben wie das Formatieren von Text, das Verschicken von E-Mails, aber auch das Generieren von Code. Die Unterteilung in Namensräume dient dazu, die große Menge an Informationen übersichtlicher zu gestalten. Beispielsweise befinden sich Klassen zum Generieren von Code in dem Namensraum System.Reflection.Emit.
+Die Dokumentation der Klassen liefert der Hersteller in seinem Software Development Kit (SDK) mit (siehe unten).
+
+
+Programmausführung
+Der Compiler für .NET-Sprachen erzeugt keinen Maschinencode, der direkt vom Prozessor ausgeführt werden kann. Stattdessen wird ein prozessorunspezifischer Zwischencode, der sogenannte Intermediate Language Code (Zwischen-Sprachcode, IL-Code) erzeugt. Dieser besteht aus Befehlen, die auf der stackbasierten virtuellen Maschine (VM) ausgeführt werden. Die resultierenden Programme („.exe-Dateien“) besitzen wie native Windows-Programme den PE-Header. Eine kleine Routine am Anfang des Programms ermöglicht den Start der virtuellen Maschine, welche wiederum den Zwischencode ausführt.
+Wenn das Programm ausgeführt wird, übersetzt ein JIT-Compiler, der in der Laufzeitumgebung Common Language Runtime (CLR) enthalten ist, den Zwischencode in Maschinencode, der dann vom Prozessor direkt ausgeführt werden kann.
+Da Code aus allen .NET-Sprachen in dieselbe Zwischensprache übersetzt wird, können Funktionen und Klassenbibliotheken, die in verschiedenen .NET-Sprachen geschrieben sind, problemlos gemeinsam in einem Programm verwendet werden.
+
+
+Assemblies
+Übersetzte Programmklassen werden als ausführbare Programme in sogenannten Assemblies zusammengefasst und bereitgestellt (vergleichbar mit JAR-Dateien in Java). Diese haben typischerweise die Endungen .exe oder .dll und sind gültige Portable Executables, werden jedoch anders strukturiert. Insbesondere sind im sogenannten Manifest alle notwendigen Metadaten aufgeführt, so dass für reine .NET-Programme in der Regel die Registrierung entfällt (Ausnahme zum Beispiel COM+/Enterprise Services).
+Assemblies können entweder „privat“, „gemeinsam“ (shared) oder „global“ sein. Private Assemblies befinden sich in demselben Verzeichnis wie das auszuführende Programm. Daher wird angenommen, dass die Version des Assemblies kompatibel zum Programm ist und daher nicht von der CLR geprüft wird.
+Ein gemeinsames Assembly kann sich in einem Verzeichnis befinden, auf das von mehreren Programmen zugegriffen wird. Daher wird für ein gemeinsames Assembly ein sogenannter „Strong Name“ benötigt, bestehend aus dem Dateinamen des Assemblies, seiner Version, der „Culture“ – die die Lokalisierung definiert – und einem kryptografischen Schlüssel. Durch eine Konfigurationsdatei, die sich in dem Verzeichnis des Programms befindet, kann der Anwendung der Speicherort der gemeinsamen Assemblies mitgeteilt werden. Ein Strong Name kann mit Hilfe des Werkzeugs sn erzeugt werden.
+Ein globales Assembly wird im globalen Assembly-Zwischenspeicher (Global Assembly Cache, GAC) gespeichert. Mit Hilfe des Werkzeugs gacutil können Assemblies dem GAC hinzugefügt werden. Innerhalb des GAC können Assemblies mit unterschiedlichen Versionen, Kulturen gespeichert werden. Mit Hilfe von Konfigurationsdateien kann festgelegt werden, welche Versionen eines Assemblies von der Anwendung benutzt werden sollen. Erfolgt keine Angabe, so wird nur die Version benutzt, die bei der Erstellung der Anwendung benutzt wurde. Wenn diese nicht vorhanden ist, wird beim Start des Programms eine Fehlermeldung ausgegeben.
+Aktuelle Windows-Versionen besitzen eine Explorer-Erweiterung, die eine aussagekräftige Anzeige des Inhalts des GAC im Windows Explorer ermöglicht.
+
+
+Verfügbarkeit, Standardisierung, alternative Produkte
+.NET ist im vollen Umfang nur für Windows verfügbar. Am 17. Januar 2008 veröffentlichte Microsoft Teile des Quelltextes für Windows-Entwickler. Große Teile von .NET, insbesondere die Laufzeitumgebung und die Klassenbibliotheken, wurden unter dem Namen Common Language Infrastructure (CLI) als ECMA-Standard normiert. Durch die Standardisierung der Laufzeitumgebung gibt es alternative Produkte, die Software, die mit .NET erstellt wurde, ausführen beziehungsweise Software für .NET erstellen können. Viele Programme, die mit .NET erstellt wurden, laufen beispielsweise dank der durch das Open-Source-Projekt Mono zur Verfügung gestellten Software auch auf Unix-basierten Betriebssystemen wie z. B. Linux oder macOS.
+Der Hersteller Microsoft bietet .NET in verschiedenen Formen an. Als reine Laufzeitumgebung samt benötigter Klassenbibliotheken (Framework), als kostenloses SDK für Entwickler, als kostenpflichtige integrierte Entwicklungsumgebung (IDE) in Form des Microsoft Visual Studio .NET. Speziell für Einsteiger und Studenten gibt es die kostenlosen Microsoft Visual Studio Express Editions mit Einschränkungen gegenüber den kostenpflichtigen Standard- oder Professional-Varianten. Eine ebenfalls kostenfreie IDE für .NET (und Mono) unter Windows findet man im Open-Source-Projekt SharpDevelop. Studenten bietet Microsoft weiterhin die Möglichkeit, über das DreamSpark-Programm kostenfrei die Professional-Variante des Visual Studios zu beziehen.
+Seit Windows Server 2003 bietet Microsoft darüber hinaus Server-Betriebssysteme an, die bereits eine .NET-Laufzeitumgebung integriert haben. Bei Vorversionen muss diese manuell installiert werden, sofern die betreffende Windows-Variante unterstützt wird. .NET ist erst ab Windows NT 4.0 beziehungsweise Windows 98 einsetzbar, die Programmierung von Webanwendungen (ASP.NET) etwa läuft nur ab Windows 2000. Ab Windows Vista ist .NET ein Kernbestandteil des Systems. Auf Nicht-Windows-Systemen wird .NET von Microsoft offiziell nicht unterstützt – so verbleibt die Plattformunabhängigkeit in der Liste der Möglichkeiten von .NET. Allerdings existieren die bereits erwähnten Open-Source-Projekte, die .NET auch für andere Plattformen (zum Beispiel Linux) verfügbar machen, wenn sie auch nicht den vollen Funktionsumfang des .NET-Frameworks unter Windows bieten können.
+
+
+Versionen
+
+
+Überblick
+Microsoft begann mit der Entwicklung des .Net-Frameworks in den späten 1990ern, ursprünglich unter dem Namen der Next Generation Windows Services (NGWS). Gegen Ende des Jahres 2000 wurden die ersten Betaversionen von .NET 1.0 veröffentlicht.
+
+
+.NET Framework 1.0
+Version 1.0 stellt die erste Veröffentlichung des .Net-Frameworks dar. Es wurde am 13. Februar 2002 für Windows 98, NT 4.0, 2000 und XP veröffentlicht. Der Support von Microsoft für diese Version endete am 10. Juli 2007, der erweiterte Support lief noch bis zum 14. Juli 2009.
+
+
+.NET Framework 1.1
+Die erste Erweiterung von .NET wurde als Installer am 3. April 2003 veröffentlicht. Es wurde gleichzeitig als integraler Bestandteil der Entwicklungsumgebung Visual Studio .NET 2003 vertrieben. Version 1.1 war die erste Version von .NET, die zusammen mit einem Betriebssystem, nämlich dem Windows Server 2003, ausgeliefert wurde. Dieser hieß bis zum Freigabekandidat sogar Windows .NET Server. Die offizielle Unterstützung für diese Version endete am 14. Oktober 2008, die erweiterte Unterstützung endete am 8. Oktober 2013. Da .NET 1.1 eine Komponente des Windows Server 2003 darstellt, lief die erweiterte Unterstützung zusammen mit der Unterstützung für dieses Betriebssystem am 14. Juli 2015 aus.
+
+Änderungen in 1.1 im Vergleich mit 1.0
+Eingebaute Unterstützung für mobile ASP.NET-Schaltflächen. Zuvor verfügbar als Add-on für das .Net-Framework, nun ein Bestandteil des Frameworks
+Änderungen in der Sicherheitsarchitektur – Windows-Forms-Assemblies aus dem Internet werden in einer Sandbox ausgeführt, zusätzlich wurde für ASP.NET-Anwendungen die Code Access Security aktiviert.
+Eingebaute Unterstützung für ODBC- und Oracle-Datenbanken, zuvor verfügbar als Add-on für das .NET 1.0, nun ein Bestandteil des Frameworks
+Einführung der Internet Protocol Version 6 (IPv6)
+Diverse Änderungen in der API
+
+
+.NET Framework 2.0
+.NET 2.0 wurde zusammen mit Visual Studio 2005, Microsoft SQL Server 2005 und Microsoft BizTalk 2006 veröffentlicht.
+
+Das .NET-2.0-Paket wurde am 22. Januar 2006 zum Download zur Verfügung gestellt.
+Version 2.0 ohne Servicepack ist die letzte Version, die Windows 98 und Windows Me unterstützt.
+.NET Framework 2.0 SP1 ist die letzte  offiziell für Windows 2000 unterstützte Version.
+.NET Framework 2.0 SP2 wird offiziell nicht für Windows 2000 unterstützt.
+Die Version wird auch mit dem Windows Server 2003 R2 ausgeliefert (nicht standardmäßig installiert).
+Änderungen in 2.0 im Vergleich mit 1.1
+Zahlreiche Änderungen in der API
+Eine neue API für native Anwendungen, die eine Instanz der .NET-Laufzeit beherbergen wollen. Die neue API gewährleistet eine feinstrukturierte Kontrolle über das Verhalten der Laufzeit in Bezug auf Multithreading, Speicherallokation, dem Laden von Assemblies und mehr. Es wurde ursprünglich entwickelt, um effizient die Laufzeit im Microsoft SQL Server zu betreiben, welcher seinen eigenen Scheduler und eine eigene Speicherverwaltung implementiert.
+Vollständige 64-Bit-Unterstützung für die x64- und alle IA64-Plattformen
+Direkt in die .NET CLR eingebaute Sprachunterstützung für generische Typen
+Viele Zusätze und Verbesserungen für ASP.NET-Web-Schaltflächen
+Neue Datensteuerung mit deklarativer Datenbindung (engl. „data binding“)
+Neue personalisierende Features für ASP.NET, zum Beispiel Unterstützung von Themes, Skins und Webparts
+
+
+.NET Framework 3.0
+.Net-Framework 3.0, ehemals WinFX genannt, erweitert die Managed-API, die einen integralen Bestandteil der Betriebssysteme Windows Vista und Windows Server 2008 darstellt. Seit dem 6. November 2006 ist das .Net-Framework 3.0 für Windows XP ab Service Pack 2 und für Windows Server 2003 verfügbar, um Entwicklern rechtzeitig die Entwicklung und Portierung von Programmen nach Vista zu ermöglichen. In der dritten Hauptversion von .NET wurden tiefgreifende Änderungen an der Architektur vorgenommen. Dazugekommen sind Funktionalitäten, die vor allem unter Windows Vista zum Einsatz kommen sollen. Das .Net-Framework 3.0 greift auf die CLR aus .NET 2.0 zurück.
+Das .Net-Framework 3.0 beinhaltet vier neue Hauptkomponenten:
+
+Windows Presentation Foundation (entwickelt unter dem Codenamen Avalon): Eine neue Technik, Objekte mit Hilfe der eigens dafür entwickelten Beschreibungssprache XAML auf dem Bildschirm darzustellen. Dabei werden, wie bei Quartz Extreme unter macOS, beispielsweise Transparenzeffekte nicht mit der CPU errechnet, sondern leistungssteigernd über die 3D-Grafikkarte. Das entlastet die CPU und lässt das System auch optisch „flüssiger“ aussehen.
+Windows Communication Foundation (entwickelt unter dem Codenamen Indigo): Eine neue dienstorientierte Kommunikationsplattform für verteilte Anwendungen. Hier will Microsoft viele Netzwerk-Funktionen zusammenführen und den Programmierern solcher Anwendungen standardisiert zur Verfügung stellen. Bei dieser Weiterentwicklung von DCOM legt Microsoft besonderen Wert auf internetbasierte Anwendungen.
+Windows Workflow Foundation: Infrastruktur für die einfachere Entwicklung von Workflow-Anwendungen, sowohl in geschäftlicher als auch technischer Hinsicht, aber auch für dokument- und webbasierte Workflows. Bietet zudem grafische Designer für Visual Studio (Modellierung mittels Fluss- und Zustandsdiagrammen). Funktionen davon sollen unter anderem in zukünftigen Versionen von Office (SharePoint) und BizTalk verwendet werden.
+Windows CardSpace (entwickelt unter dem Codenamen InfoCard): Identitätsmanagement-Infrastruktur für verteilte Anwendungen. Mit CardSpace will Microsoft einen neuen Standard für das Identitätsmanagement unter anderem im Internet etablieren. In dem eigenen Browser Internet Explorer (Version 7) schon integriert, will Microsoft für diesen Dienst auch Plug-ins für alternative Browser entwickeln, mindestens aber für Mozilla Firefox.
+Für die Vorab-Demonstration des neuen .Net-Framework präsentierte Microsoft den Fotodienst Microsoft Max. Mit Herausgabe der endgültigen Version wurde der Dienst eingestellt.
+
+
+.NET Framework 3.5
+Version 3.5 des .Net-Frameworks wurde am 19. November 2007 veröffentlicht. Es verwendet die CLR aus Version 2.0. Mit Version 3.5 werden gleichzeitig das .NET Framework 2.0 SP1 und .NET Framework 3.0 SP1 installiert.
+Die Version 3.5 SP1 (11. August 2008) ergänzte die Bibliothek um das ADO.NET Entity Framework 1.0 und die ADO.NET Data Services. Mit der Version 3.5 SP1 werden gleichzeitig das .NET Framework 2.0 SP2 und .NET Framework 3.0 SP2 installiert. Am 18. Dezember 2008 wurde zudem ein General Distribution Release veröffentlicht, das lediglich Fehlerbehebungen beinhaltet.
+Der Quellcode der Klassenbibliothek (BCL) wurde teilweise unter der Microsoft Reference Source License freigegeben.
+
+Änderungen seit Version 3.0
+Neue Sprachfunktionen für C# 3.0 und VB.NET 9.0
+Unterstützung von Expression Trees und Lambda-Methoden
+Erweiterungsmethoden
+anonyme Typen
+LINQ
+Unterstützung von Paging für ADO.NET
+API für asynchrone Netzwerk-I/O
+P2P-Netzwerkstack mit verwaltetem Peer Name Resolution Protocol Resolver
+Verbesserte WCF- und WF-Bibliotheken
+Integration von ASP.NET AJAX
+Neuer Namensraum System.CodeDom
+Microsoft ADO.NET Entity Framework 1.0
+
+
+.NET Framework 4.0
+Microsoft gab Informationen zum .Net-Framework 4 erstmals am 29. September 2008 und auf der Professional Developers Conference (PDC 2008) bekannt.
+Die erste Beta-Version des .NET 4 wurde am 18. Mai 2009 veröffentlicht. Am 19. Oktober 2009 folgte eine zweite Beta-Version. Ursprünglich war die Veröffentlichung des .NET-Frameworks zusammen mit der Entwicklungsumgebung Microsoft Visual Studio 2010 für den 22. März 2010 geplant. Um jedoch mehr Zeit für weitere von Nutzern der Beta 2 des Microsoft Visual Studio 2010 geforderte Optimierungen zu erhalten, kündigte Microsoft im Dezember 2009 eine Verschiebung des Releases von .NET 4 und Visual Studio 2010 um einige Wochen an. Am 10. Februar 2010 erschien das „Release Candidate“. Die endgültige Version von .NET 4 und Visual Studio 2010 in der englischen Sprachfassung wurde von Microsoft schließlich am 12. April 2010 veröffentlicht.
+Zu den wichtigsten Neuerungen bei .Net-Framework 4 gehörten unter anderem:
+
+Dynamic Language Runtime
+Codeverträge
+Unterstützung für Kovarianz und Kontravarianz durch generische Schnittstellen und Delegaten
+Managed Extensibility Framework
+Unterstützung für Speicherabbilddateien
+Automatische Speicherbereinigung im Hintergrund
+Neues Programmiermodell zum Schreiben von Multithread- und asynchronem Code
+Verbesserte Leistung, Skalierbarkeit und Workflow-Modellierung sowie neuer Designer bei der Windows Workflow Foundation
+Version 4.0 ist die letzte Version, die Windows XP und Windows Server 2003 unterstützt.
+
+
+.NET Framework 4.5
+Die ersten Informationen zu .Net-Framework 4.5 gab Microsoft auf der BUILD Windows Konferenz am 14. September 2011 bekannt. Die endgültige Version erschien am 15. August 2012.
+Mit Version 4.5 hat Microsoft die Bereitstellung zweier separater Installationspakete, einem „Full Package“ und einem im Funktionsumfang reduzierten „Client Profile“, wieder eingestellt. Als Grund dafür gilt, dass das Client Profile-Installationspaket nur unbedeutende 7 MB an Download einspart, dafür aber häufig Verunsicherung über die richtige Wahl beim Benutzer verursachte.
+Neben einigen kleinen Verbesserungen (u. a. Performance des JIT-Compilers) wurde die Unterstützung asynchroner Methodenaufrufe durch neue Schlüsselwörter in C# (async, await) und Visual Basic (Async, Await) hinzugefügt.
+
+
+.NET Framework 4.5.1
+Mit Version 4.5.1 wurden erneut einige kleinere Verbesserungen vorgenommen, außerdem erschien eine neue Version 2013 von Visual Studio.
+
+
+.NET Framework 4.5.2
+Mit Version 4.5.2 wurden kleinere Verbesserungen bei der High-DPI-Darstellung vorgenommen.
+
+
+.NET Framework 4.6
+Mit Version 4.6 wurden u. a. die Performance des 64 Bit JIT-Compilers verbessert sowie umfangreiche Änderungen an Basisklassenbibliotheken vorgenommen.
+Version 4.6 ist die letzte Version, die Windows Vista und Windows Server 2008 unterstützt.
+
+
+.NET Framework 4.6.1
+Version 4.6.1 bringt Fixes und neue Features.
+
+
+.NET Framework 4.6.2
+Version 4.6.2 bringt Fixes und neue Features.
+
+
+.NET Framework 4.7
+Version 4.7 bringt Fixes und neue Features:
+
+Verbesserte Unterstützung der Sicherheit mit Transport Layer Security (TLS) vor allem der Version 1.2
+Verbesserte Unterstützung für Verschlüsselung mit Elliptic Curve Cryptography
+Unterstützung für High-DPI Größenerkennung in Windows Forms
+Feinere Erkennung von „touch and stylus“ in der Windows Presentation Foundation (WPF)
+Neue Druckerschnittstelle für WPF
+Eine Vorschauversion wurde im Windows-Insider-Programm von Windows 10 ab Januar 2017 ausgeliefert.
+Die finale Version wurde zusammen mit dem Creators Update für Windows 10 ausgeliefert, welches am 11. April freigegeben wurde.
+Am 2. Mai 2017 wurde .NET 4.7 für Windows 7 mit Service Pack 1, Windows 8.1, Windows 10 mit dem Anniversary Update (1607), Windows Server 2008 R2 mit Service Pack 1, Windows Server 2012, Windows Server 2012 R2 und Windows Server 2016 veröffentlicht.
+
+
+.NET Framework 4.7.1
+Am 13. Oktober 2017 wurde .NET 4.7.1 für Windows 7 mit Service Pack 1, Windows 8.1, Windows 10 mit dem Fall Creators Update (Version 1709), Windows Server 2008 R2 mit Service Pack 1, Windows Server 2012, Windows Server 2012 R2 und Windows Server 2016 veröffentlicht.
+.Net-Framework 4.7.1 unterstützt den .NET Standard 2.0, wenn zusätzliche .NET Standard-Unterstützungsdateien (dotnet-standard-support-vs2015-2.0.0-win-x86.msi) installiert werden.
+
+
+.NET Framework 4.7.2
+Am 30. April 2018 wurde .NET 4.7.2 für Windows 7 mit Service Pack 1, Windows 8.1, Windows 10 mit dem Spring Creators Update (Version 1803), Windows Server 2008 R2 mit Service Pack 1, Windows Server 2012, Windows Server 2012 R2 und Windows Server 2016 angekündigt.
+.Net-Framework 4.7.2 baut auf früheren Versionen von .Net-Framework 4.x auf. Visual Studio-Anwendungen ab 2012 werden unterstützt.
+
+
+.NET Framework 4.8.0
+Am 18. April 2019 wurde .Net 4.8 offiziell freigegeben. Es werden folgende Windows-Versionen unterstützt: Windows 7, Windows 8.1, Windows 10, Windows Server 2008 R2, Windows Server 2012, Windows Server 2012 R2, Windows Server 2016 und Windows Server 2019
+Die Version 4.8.0 wird automatisch mit dem Windows 10 Update auf Version 1903 ausgeliefert.
+Der Just in Time Compiler von .NET 4.8 basiert auf .NET Core 2.1. Alle Fehlerkorrekturen und viele auf der Codegenerierung basierende Leistungsoptimierungen von .NET Core 2.1 sind nun auch im .Net-Framework verfügbar.
+Version 4.8 bringt Fixes und neue Features:
+
+Runtime – JIT Verbesserung
+BCL – Verwendung der aktuellen ZLib
+Anpassungen für Monitore mit unterschiedlich hohen DPI Auflösungen
+
+
+.NET Framework 4.8.1
+Am 9. August 2022 wurde .NET 4.8.1 freigegeben. Dieses verbessert die Barrierefreiheit und die Performance auf ARM64-Geräten (mit Windows 11) durch native Unterstützung.
+
+
+Ableger
+
+
+.NET Compact Framework
+
+Für Handhelds und Mobiltelefone, die unter Windows CE bzw. Windows Mobile laufen, existiert eine funktional reduzierte Version der .NET-Laufzeitumgebung in Form des .NET Compact Frameworks. Es lässt sich aber nur unter Verwendung des kostenpflichtigen Visual Studio .NET 2003 oder neuer für diese Plattform entwickeln. Zeitgleich mit der Version 3.5 von .NET wurde das .NET Compact Framework 3.5 veröffentlicht.
+
+
+.NET Micro Framework
+
+Im September 2006 stellte Microsoft zusätzlich das .NET Micro Framework vor. Es stellt eine nochmals eingeschränkte Version des .Net-Frameworks speziell für Embedded-Geräte dar. Je nach Plattform soll das Framework zwischen 512 KByte und 1 MByte auf dem Gerät beanspruchen und lässt sich direkt aus dem Flash-Speicher oder dem ROM starten. In diesem Falle arbeitet das Micro Framework als Betriebssystem, es kann aber auch auf ein vorhandenes Windows-Betriebssystem aufsetzen.
+
+
+Silverlight
+
+Silverlight (vormals WPF/E) enthält eine stark verkleinerte Untermenge des .Net-Frameworks und soll im Wesentlichen Webbrowser befähigen, reichhaltige Internetanwendungen auf Basis der WPF auszuführen. Normale Programme auf Basis der WPF sind ebenfalls „webfähig“, benötigen aber das vollständige .NET 3.0, welches derzeit nur für Windows verfügbar ist. Silverlight sollte ursprünglich auch für macOS, ältere PCs mit Windows sowie Linux bereitgestellt werden. Microsoft stellte dann allerdings jegliche Unterstützung für Silverlight am 12. Oktober 2021 ein.
+
+
+.NET Core und .NET
+
+Am 12. November 2014 wurde eine Teilmenge des Reference Source auf GitHub gehostet und unter der MIT-Lizenz veröffentlicht. Das geschah auch, um das Mono-Projekt zu unterstützen, damit Lücken zwischen Mono und .NET durch Verwendung desselben Codes geschlossen werden können. Dieses Repository bezieht sich auf das .Net-Framework 4.6 und hat deshalb nur Lesezugriff. Gleichzeitig veröffentlichte Microsoft die überarbeiteten Komponenten des Frameworks unter der Bezeichnung .NET Core auf GitHub und zwar auch unter MIT-Lizenz. .NET Core erlaubt die Beteiligung durch die Community und ist von Microsoft an die 2014 gegründete .NET Foundation überstellt worden. Durch die Verwendung der MIT-Lizenz gibt es faktisch keine Einschränkungen, wie der Quellcode von .NET Core verwendet werden darf. Die veröffentlichten Komponenten umfassen auch die Werkzeuge für eine Softwareentwicklung auf Kommandozeilenebene sowie ASP.NET (Weiterentwicklung in geänderter Form als ASP.NET Core). .NET Core ist auch unter Linux und macOS lauffähig. Im November 2020 wurden .NET Core, .Net-Framework als einheitliche Plattform unter der Bezeichnung .NET 5.0 zusammengeführt.
+
+
+Siehe auch
+Liste von .NET-Sprachen
+.NET Native
+.NET User Group
+
+
+Literatur
+Wolfgang Beer et al.: Die .NET-Technologie: Grundlagen und Anwendungsprogrammierung. dpunkt Verlag 2006, ISBN 978-3-89864-421-1.
+Dino Esposito, Andrea Saltarello: Architecting Applications for the Enterprise: Microsoft .NET. Microsoft Press, Second Edition 2014, ISBN 978-0-7356-8535-2.
+Jürgen Kotz u. a.: .NET 3.0. WPF, WCF und WF – ein Überblick; Addison-Wesley, München Februar 2007, ISBN 3-8273-2493-9.
+Daniel Liebhart u. a.: Architecture Blueprints; Hanser Verlag, 2007, ISBN 978-3-446-41201-9.
+Jeffrey Richter: Microsoft .NET Framework-Programmierung in C#. Expertenwissen zur CLR und dem .NET Framework 2.0. Microsoft Press, 2. Auflage 2006, ISBN 978-3-86063-984-9.
+Holger Schwichtenberg: Microsoft .NET 2.0 Crashkurs. Microsoft Press, Unterschleißheim 2006, ISBN 3-86063-987-0.
+Holger Schwichtenberg: Microsoft .NET 3.0 Crashkurs. Microsoft Press, Unterschleißheim 2007, ISBN 3-86645-501-1.
+Holger Schwichtenberg u. a.: Microsoft .NET 4.5 Update. Microsoft Press 2012, ISBN 978-3-86645-468-2.
+
+
+Weblinks
+.NET-Dokumentation – (deutschsprachige) Beschreibung von Microsoft
+Free. Cross-platform. Open source. (englisch) – .NET-Produktwebseite und Plattform-Explorer
+Alternative Implementierungen: Mono, DotGNU
+Deutschsprachiges Magazin rund um das .NET Framework
+Searchable .NET Framework inheritance hierarchy chart
+
+
+Einzelnachweise

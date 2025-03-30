@@ -1,0 +1,69 @@
+Tytuł: (136108) Haumea
+
+(136108) Haumea () (frühere, provisorische Bezeichnung 2003 EL61) ist ein Zwergplanet der Unterklasse der Plutoiden und zählt zu den größten bisher bekannten Objekten im Kuipergürtel. Sie wurde einerseits erst als Cubewano klassifiziert, andererseits später in einer möglichen 7:12-Resonanz mit Neptun gesehen. Wegen ihrer schnellen Rotation hat sie mit einem Äquatordurchmesser von etwa 2300 km und einem Abstand der Pole von nur etwa 1100 km eine stark ellipsoide Form. Im Rahmen der Beobachtungen einer Sternbedeckung am 21. Januar 2017 wurde entdeckt, dass Haumea einen Ring hat.
+
+
+Entdeckung und Benennung
+Die Entdeckung von Haumea wurde am 28. Juli 2005 von J. L. Ortiz, F. J. Aceituno und P. Santos Sanz vom Sierra Nevada Observatorium in Spanien nach erneuter Auswertung von Aufnahmen vom 7. März 2003 bekanntgegeben, nachdem am 20. Juli 2005 die Arbeitsgruppe von Mike Brown am Caltech in den USA einen Tagungsbeitrag über das Objekt unter dem Arbeitsnamen K40506A angekündigt hatte. Die Beobachtungen von Ortiz fanden mit einem handelsüblichen Schmidt-Cassegrain-Teleskop mit einem Hauptspiegel von 35 cm Durchmesser statt, wie es auch von Amateurastronomen verwendet wird. Die Gruppe konnte das Objekt zunächst nur drei Tage lang verfolgen. Später konnte das Objekt auf Archivaufnahmen gefunden werden, darunter auf Bildern aus dem Palomar Observatory Sky Survey aus dem Jahr 1955. Aufgrund dieser zusätzlichen Daten war eine sichere Bahnbestimmung möglich, so dass die Entdeckung am 28. Juli 2005 bekannt gemacht wurde.
+Wegen der ungeklärten Zweifel, die dadurch verursacht wurden, dass die Ortiz-Gruppe vor der gemeldeten Entdeckung die Beobachtungsdaten der Gruppe um Mike Brown aus dem Internet heruntergeladen und ausgewertet hatte, ohne darauf hinzuweisen, hat das Minor Planet Center die Entdeckernamen wieder aus seiner Liste gelöscht und führt stattdessen das Sierra-Nevada-Observatorium auf.
+Seither wurde Haumea durch verschiedene Weltraum- sowie erdbasierte Teleskope beobachtet; im Januar 2022 lagen 3224 Beobachtungen über 28 Oppositionen in einem Zeitraum von mehr als 66 Jahren vor.
+
+
+Kontroverse um die Entdeckung
+Mike Brown, Chad Trujillo und David Rabinowitz vom California Institute of Technology fanden das Objekt am 28. Dezember 2004 mit Hilfe des Palomar-Observatoriums. Die Arbeitsgruppe um Mike Brown benutzte für das Objekt die inoffizielle Arbeitsbezeichnung „Santa“. Wegen der Veröffentlichung der Entdeckung von Haumea (ex. 2003 EL61) durch die spanischen Astronomen gab die Gruppe um Brown die Entdeckung der beiden noch größeren transneptunischen Objekte (136199) Eris (ex. 2003 UB313, Xena) und (136472) Makemake (ex. 2005 FY9) nur wenige Stunden später auf einer Pressekonferenz bekannt.
+Brown und seine Gruppe erkannten zunächst Ortiz et al. als Erstentdecker von Haumea an, bis sich herausstellte, dass Ortiz et al. auf öffentlich im Internet zugängliche Teleskop-Logdaten der Gruppe um Brown zugegriffen hatten, bevor die Gruppe um Ortiz die Entdeckung bekannt machte. Während der Vorwurf im Raum stand, dass die spanische Gruppe das Objekt erst mit Hilfe dieser Daten auf ihren Aufnahmen aus dem Jahr 2003 aufgefunden habe, beteuerte Ortiz, nur überprüft zu haben, ob es sich bei dem unter dem Arbeitsnamen K40506A angekündigten Objekt von Brown et al. um den gleichen Himmelskörper gehandelt habe, den seine Gruppe unabhängig davon gefunden hatte. Browns Gruppe warf daraufhin der Gruppe um Ortiz einen Verstoß gegen die Regeln der Wissenschaftsethik vor und verlangte vom Minor Planet Center (MPC), Ortiz et al. den Status der Erstentdecker abzuerkennen.
+Die Kontroverse geht darauf zurück, dass nach den gültigen Regeln der Internationalen Astronomischen Union die Entdeckung eines Asteroiden oder Zwergplaneten jenen Beobachtern zugesprochen wird, die als erste genügend Positionsmessungen an das MPC übermitteln, mit denen die Umlaufbahn des Objekts im Sonnensystem hinreichend genau bestimmt werden kann. Zwar hatte die Gruppe um Brown Haumea bereits Ende 2004 gefunden, die Entdeckung jedoch geheim gehalten. Die Gruppe um Ortiz hingegen übermittelte ihre Beobachtungen am 28. Juli 2005 an das MPC. Das Sierra Nevada Observatorium wird daher vom MPC als Entdecker angeführt.
+
+
+Name
+Am 17. September 2008 wurde 2003 EL61 von der Internationalen Astronomischen Union nach einem Vorschlag Browns nach der hawaiischen Göttin Haumea benannt. Zugleich wurde Haumea als der fünfte Zwergplanet des Sonnensystems anerkannt und somit auch als der vierte Plutoid. Der Namensvorschlag von Ortiz lautete Ataecina, nach dem Namen einer in vorrömischer Zeit auf der Iberischen Halbinsel verehrten Gottheit.
+
+Im Gegensatz zu Pluto haben andere Zwergplaneten und Asteroiden, einschließlich Haumea, kein allgemein verwendetes astronomisches Symbol, obwohl ein Symbol für Haumea von der NASA verwendet wurde: . Von der Verwendung von Planetensymbolen wird von der Internationalen Astronomischen Union (IAU) offiziell abgeraten. Sie spielen in der modernen Astronomie keine Rolle mehr.
+
+
+Eigenschaften
+
+
+Umlaufbahn
+Haumea läuft auf einer elliptischen Umlaufbahn in etwa 285 Jahren und 5 Monaten um die Sonne. Das Perihel ist rund 35 AE von der Sonne entfernt, das Aphel rund 51½ AE. Ihr Perihel durchläuft sie wieder im Frühjahr 2133. Zurzeit ist sie etwa 50,5 AE von der Sonne entfernt. Die Bahnebene ist etwa 28,2° gegen die Ekliptik geneigt.
+
+
+Größe und Rotation
+Aus der Umlaufbewegung des größeren der beiden Monde Hiʻiaka (siehe unten) konnte die Masse von Haumea mit großer Genauigkeit zu 4.006 ± 0,040e21 kg bestimmt werden, was 30 Prozent der Masse von Pluto entspricht. Hiʻiakas Masse wurde mit 1.79 ± 0,11e19 kg berechnet. Aus der beobachteten Lichtkurve ergibt sich, dass Haumea in nur 3:54:55,2 Stunden um die eigene Achse rotiert – und damit schneller als irgendein anderes bekanntes Objekt im Sonnensystem mit einer Größe oberhalb 100 km. Aus der Lichtkurve lässt sich ferner auf die Form eines dreiachsigen Jacobi-Ellipsoides mit Achsen von 1920 km × 1540 km × 990 km schließen. Haumea wurde als Zwergplanet bestätigt, da sie sich trotz ihrer von der Kugelgestalt weit abweichenden Form mit großer Wahrscheinlichkeit in einem hydrostatischen Gleichgewicht befindet.
+Im Januar 2017 ereignete sich eine Sternbedeckung, die signifikant höhere Werte ergab. Die Untersuchungen zeigten Proportionen von 2322 km × 1704 km × 1138 km (Geometrisches Mittel 1595 ± 11 km), was zumindest im Verhältnis der Proportionen die früheren Ergebnisse bestätigte, doch besitzt Haumea demnach an ihrer Längsachse einen Durchmesser, der den Durchmessern insbesondere von Eris (2326 km) und auch Pluto ähnelt. Damit ist Haumea deutlich größer als zuvor angenommen. Der Mittelwert von 1595 km liegt über den Werten von Gonggong (1535 km), Makemake (1430 km), was Haumea zum derzeit drittgrößten Zwergplaneten macht. Ergebnis der Untersuchungen ist zudem eine mittlere Dichte von 1,885 g/cm³, die eher zu den mittleren Dichten anderer großer TNO passt.
+
+Die schnelle Rotation von Haumea wird mit der Entstehung durch die Kollision zweier Zwergplaneten erklärt. Demnach soll der ursprüngliche Himmelskörper mit einem etwa 1000 km großen Objekt kollidiert sein. Durch den Zusammenstoß wurde ein Großteil des Eismantels weggesprengt, weshalb Haumea eine deutlich höhere Dichte als andere Objekte des Kuipergürtels besitzt. Aus den Bruchstücken der Kollision entstanden nicht nur die beiden Monde, sondern zusätzlich weitere kleinere Objekte, die mit Haumea zusammen eine Familie von Himmelskörpern bilden. Bestätigte Mitglieder der Haumea-Familie sind außer Haumea und ihren Monden: 2002 TX300, 2003 OP32, 2005 RR43, 2009 YE7, 1995 SM55, 2005 CB79, 1996 TO66, 2003 UZ117, 2003 SQ317 und 1999 OY3.
+
+
+Oberfläche
+Spektroskopische Beobachtungen am Keck- und am Gemini-Observatorium zeigen starke Spuren von kristallinem Wassereis auf der Oberfläche von Haumea. Dieses bildet sich erst ab 110 K, während die Oberflächentemperatur Haumeas weniger als 50 K beträgt. Da die Lebensdauer von kristallinem Eis wegen der kosmischen Strahlung in der Größenordnung von 10 Mio. Jahren liegt, wird angenommen, dass Haumeas Oberfläche erst vor kurzem mit frischem Wassereis bedeckt wurde. Flüchtige Substanzen wie Methan gingen anscheinend bei der erwähnten Kollision verloren; die Spektralanalyse zeigt im Gegensatz zu Makemake kein Methan.
+Die scheinbare Helligkeit beträgt während der Opposition 17,3m.
+
+
+Monde und Ring
+
+Beobachtungen mittels adaptiver Optik am Keck-Observatorium haben gezeigt, dass Haumea von zwei Monden umkreist wird. Der größere der beiden, Hiʻiaka, läuft bei einer Bahnexzentrizität von 0,0513 im mittleren Abstand von 49.880 km in etwa 49,5 Tagen um den Zwergplaneten. Der kleinere, Namaka, hat einen Abstand von 25.657 km; seine Umlaufzeit beträgt 18,3 Tage. Die Bahnebenen der Monde sind etwa 13° gegeneinander verkippt, ihre Massen werden mit 1.79(11)e19 kg und ≈ 1.79e18 kg angegeben.
+In der hawaiischen Mythologie sind Hiʻiaka und Namaka Töchter der Fruchtbarkeitsgöttin Haumea, die aus verschiedenen Körperteilen Haumeas entstanden. Die Namen der Monde spielen somit auf ihre vermutete Entstehung als Bruchstücke Haumeas nach der Kollision mit einem anderen Objekt an.
+Anlässlich einer Sternbedeckung am 21. Januar 2017 wurde entdeckt, dass Haumea über einen 70 km breiten Ring von etwa 4.574 km Durchmesser verfügt. Damit hat das Ringsystem nur etwa 1.300 km Abstand vom Zwergplaneten. Haumea ist somit nach den Zentauren Chariklo und Chiron der dritte Planetoid mit Ringen, bewegt sich im Gegensatz zu diesen jedoch außerhalb der Neptunbahn im Kuipergürtel. Der Ring liegt in der gleichen Ebene wie Haumeas Äquator und Hiʻiakas Orbit und steht in 3:1-Resonanz zu Haumeas Rotationsperiode, das heißt, dass Haumea dreimal schneller als das Ringmaterial rotiert. Untersuchungen ergaben, dass der Ring etwa 5 % zur Gesamthelligkeit des Haumea-Systems beiträgt.
+Das Haumea-System in der Übersicht:
+
+
+Siehe auch
+Liste von transneptunischen Objekten
+Liste der Zwergplaneten des Sonnensystems
+
+
+Literatur
+N. Pinilla-Alonso, R. Brunetto, J. Licandro, R. Gil-Hutton, T.L. Roush, G. Strazzulla: The surface of (136108) Haumea (2003 EL61), the largest carbon-depleted object in the trans-Neptunian belt. In: Astronomy & Astrophysics. Band 496, Nr. 2. EDP Sciences, März 2009, S. 547–556, doi:10.1051/0004-6361/200809733, arxiv:0803.1080, bibcode:2009A&A...496..547P. 
+M. E. Brown, A. H. Bouchez, D. Rabinowitz et al.: Keck Observatory Laser Guide Star Adaptive Optics Discovery and Characterization of a Satellite to the large Kuiper Belt Object 2003 EL61. In: The Astrophysical Journal. Band 632 (2005), S. L45–L48, doi:10.1086/497641, arxiv:astro-ph/0509401
+M. E. Brown, M. A. van Dam, A. H. Bouchez et al.: Satellites of the largest Kuiper belt objects. In: The Astrophysical Journal, Band 639 (2006), S. L43-L46, doi:10.1086/501524, arxiv:astro-ph/0510029
+
+
+Weblinks
+
+2003 EL61 und Monde in astro.info
+Mike Browns Web-Seite über 2003 EL61 und seine Monde (englisch)
+New York Times: “One find, two astronomers: An ethical brawl” (englisch)
+
+
+Einzelnachweise

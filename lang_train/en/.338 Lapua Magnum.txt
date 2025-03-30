@@ -1,0 +1,159 @@
+Tytuł: .338 Lapua Magnum
+
+The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a Finnish rimless, bottlenecked, centerfire rifle cartridge. It was developed during the 1980s as a high-powered, long-range cartridge for military snipers. Due to its use in the War in Afghanistan and the Iraq War, the cartridge has become widely available.
+The cartridge is named after Finnish town Lapua.
+The loaded .338 cartridge is 8.6 mm (0.34 in) in diameter (rim) and 93.5 mm (3.68 in) long. It can penetrate better-than-standard military body armor at ranges of up to 1,000 metres (1,090 yd), and has a maximum effective range of about 1,750 metres (1,910 yd) with C.I.P. conforming ammunition at sea level conditions. Muzzle velocity is dependent on barrel length, seating depth, and powder charge, and varies from 880 to 915 m/s (2,890 to 3,000 ft/s) for commercial loads with 16.2-gram (250 gr) bullets, which corresponds to about 6,525 J (4,813 ft⋅lbf) of muzzle energy.
+British military issue overpressure .338 Lapua Magnum cartridges with 70 mm (2.8 in) overall length, loaded with 16.2-gram (250 gr) LockBase B408 very-low-drag bullets fired at 936 m/s (3,071 ft/s) muzzle velocity from a L115A3 Long Range Rifle were used in November 2009 by British sniper Corporal of Horse (CoH) Craig Harrison to establish a new record for the longest confirmed sniper kill in combat, at a range of 2,475 m (2,707 yd) (since broken). In reports, CoH Harrison mentions the environmental conditions at Musa Qala were perfect for long-range shooting: no wind, mild weather, and clear visibility.
+In addition to its military role, it is used by hunters and civilian long-range shooting enthusiasts. The .338 Lapua Magnum is capable of taking down any big game animals, though its suitability for some dangerous game (Cape buffalo, hippopotamus, white rhinoceros, and elephant) is arguable unless accompanied by a larger "backup" caliber: "There is a huge difference between calibers that will kill an elephant and those that can be relied upon to stop one." In Namibia, the .338 Lapua Magnum in the past was legal for hunting Africa's big five game if the loads had at least 5,400 J (3,983 ft⋅lbf) muzzle energy. Since 2015, Namibia and other sub-Saharan countries generally require larger minimal bore diameters by law for big-five hunting.
+
+
+History
+
+
+Initial development
+In 1983, Research Armament Industries (RAI) in the United States began development of a new, long-range sniper cartridge capable of firing a 16.2-gram (250 gr), 0.338-inch-diameter (8.6 mm) bullet at 914 metres per second (3,000 ft/s), that could lethally penetrate five layers of military body armor at 1,000 m (1,094 yd). After preliminary experiments, a .416 Rigby case necked down to take a 0.338-inch (8.6 mm) bullet was selected, since this diameter presents an optimum of sectional density and penetrating capability for practical spin-stabilized rifle bullets (bullets up to about 5 to 5.5 calibers in length).
+The .416 Rigby is an English big-game cartridge designed in 1911 to accommodate 325 MPa (47,137 psi) pressures. One of the disadvantages of these old cartridge cases, which were intended for firing cordite charges instead of modern smokeless powder, is the thickness of the sidewall just forward of the web (the solid portion of a cartridge between the head and the bottom of the primer pocket). During ignition, the cartridge's base, just forward of the bolt face, is not supported.
+During the process, RAI employed Jim Bell and Brass Extrusion Labs Ltd. (B.E.L.L.) of Bensenville, Illinois, to make the .338/416 or 8.58×71 mm cartridge cases, Hornady produced bullets, and RAI built a sniper rifle under contract for the U.S. Navy. RAI found that the BELL cases did not fulfill the requirements, since they were modified low pressure .416 Rigby cases. Pressed by military deadlines, RAI looked for another case producer and contacted Lapua of Finland in 1984. RAI was forced to drop out of the program due to financial difficulties. Subsequently, Lapua of Finland put this cartridge into limited production. The .338/416 rifle program was later canceled when the contractors were unable to meet the project's velocity target of 914 m/s (3,000 ft/s) for a 16.2 g (250 gr) bullet, due to excessive pressures rupturing cartridge cases.
+
+
+Final development
+
+The .338 Lapua Magnum cartridge was developed as a joint venture between the Finnish rifle manufacturer SAKO and the British rifle manufacturer Accuracy International, along with the Finnish ammunition manufacturer Lapua, or more officially Nammo Lapua Oy, which since 1998 is part of the Nordic Ammunition Group (Nammo).
+Lapua opted to redesign the .338/416 cartridge. In the new case design, particular attention was directed toward thickening and metallurgically strengthening the case's web and sidewall immediately forward of the web. In modern solid head cases, the hardness of the brass is the major factor determining a case's pressure limit before undergoing plastic deformation. Lapua tackled this problem by creating a hardness distribution ranging from the head and web (hard) to the mouth (soft) as well as a strengthened (thicker) case web and sidewall immediately forward of the web. This resulted in a very pressure-resistant case, allowing it to operate at high pressure and come within 15 m/s (50 ft/s) of the original velocity goal.
+Lapua also designed a 16.2-gram (250 gr) .338 caliber lock base B408 full metal jacket bullet, modeled after its .30 caliber lock base bullet configuration.
+The result was the .338 Lapua Magnum cartridge which was registered with C.I.P. (Commission Internationale Permanente pour l'Epreuve des Armes à Feu Portatives) in 1989. With the procurement by the Dutch Army, the cartridge became NATO codified.
+The .338 Lapua Magnum fills the gap between weapons chambered for standard military rounds such as the 7.62×51mm NATO and large, heavy rifles firing the .50 BMG cartridge. It also offers an acceptable amount of barrel wear, which is important to military snipers who tend to fire thousands of rounds a year in practice. This was achieved by coupling a sensible case volume (7.40 ml) to bore area (56.86 mm2/0.5686 cm2) ratio (13.01 Oratio) with ample space for loading relatively long slender projectiles that can provide good aerodynamic efficiency and external ballistic performance for the projectile diameter. Like every other comparable large magnum rifle cartridge, the .338 Lapua Magnum presents a stout recoil. An appropriate fitting stock and an effective muzzle brake helps to reduce recoil-induced problems, enabling the operator to fire more rounds before getting too uncomfortable to shoot accurately. Good factory loads, multiple projectile weights and factory special application ammunition are all available.
+Due to its growing civilian popularity, several high-quality tactical and match (semi) custom bolt actions designed for the .338 Lapua Magnum are becoming available. These (semi) custom bolt-actions are used with other high-grade rifle and sighting components to build custom sporting and target rifles.
+
+
+Users
+
+The .338 Lapua Magnum cartridge is in law enforcement or military service use with:
+
+ Albania: RENEA – Sako TRG-42
+ Australia: Blaser Tactical 2
+ Austria: Austrian Armed Forces Jagdkommando – Steyr 08A2
+ Canada: Canadian Forces – C14 Timberwolf Medium Range Sniper Weapon System (MRSWS)
+ Chile: Chilean Army – APR338 and PGM 338 Barrett Model 98B
+ China: People's Liberation Army Ground Force – QBU-202 (military designation for the 8.6×70mm CS/LR35 rifle)
+ Colombia: TAP.
+ Cyprus: National Guard-Accuracy International Arctic Warfare
+ Czech Republic — Sako TRG-42
+ Denmark: Military of Denmark – Sako TRG-42
+ Estonia: Military of Estonia reconnaissance units and special forces — Sako TRG-42.
+ Finland: Finnish Defence Forces – Sako TRG-42
+ France: French Army, GIGN and Commandement des Opérations Spéciales – PGM 338, Sako TRG-42, AWM .338
+ Georgia: Police and military - Accuracy International AWM and Sako TRG series, as well as Satevari MSWP. Domestic analogue .338 GBM produced by STC Delta
+ Germany: Bundeswehr – Haenel RS9 designated as G29 in service with the special forces; replacing the G22, Erma SR-100, AMP Technical Services DSR-1, GOL Sniper Magnum
+ Greece: Anti-Terrorist Unit EKAM – Sako TRG-41
+ Hungary: Hungarian Police Security Service (Rendészeti Biztonsági Szolgálat) - Unique-Alpine TPG-1 (Taktische Prazisions Gewehr-1)
+ Indonesia: Kopassus – Accuracy International AWM .338
+ Ireland: Irish Army – Accuracy International AWM .338
+ Israel: Infantry - H-S Precision Pro Series 2000 HTR Special forces — McMillan Tac-338 and PGM 338, YAMAM – Barrett MRAD
+ Italy: Sako TRG-42
+ Lithuania: Lithuanian Armed Forces – Accuracy International AXMC
+ Malaysia: Pasukan Gerakan Khas – Accuracy International AWM —Accuracy International AX338
+ Netherlands: Dutch military  – Accuracy International AWM and AXMC, Sako TRG-41
+ New Zealand: New Zealand Defence Force – Barrett MRAD
+ Poland: GROM – Accuracy International AWM, 1 Pułk Specjalny Komandosów
+ Portugal — Accuracy International AWM – Accuracy International AXMC
+ Russia: Alpha Group and SOBR – Accuracy International AWM
+ Serbia: Special Brigade –  Sako TRG-42.
+ Singapore: PGM 338
+ Slovenia: Military of Slovenia – PGM 338
+ Spain: GOE – Sako TRG-41
+ Switzerland: Sako TRG-42
+ Syria: Accuracy International AWM
+ Turkey: Sako TRG-42
+ Ukraine: Used by the army snipers: the Netherlands donated Accuracy International AWM rifles to Ukraine in 2022.
+ United Kingdom: British military – Accuracy International AWM .338
+ United States: US Navy Special Warfare – McMillan Tac-338
+The .338 Lapua Magnum has been designated a "cartridge of interest" by the National Defense Industrial Association (NDIA). It is being groomed to replace the .300 Winchester Magnum and the .50 BMG for anti-personnel long-range service in the U.S. military. On June 17, 2008, the U.S. government issued a market survey to support a requirement for a precision sniper rifle (PRS) to possibly replace the then-fielded bolt-action SOF Sniper Syst's0126.
+On 7 March 2013, the Remington MSR was declared the winner of the precision sniper rifle competition.  Remington announced that the MSR had won on 8 March, and it was publicly confirmed on 9 March.  This was followed by a $79.7 million contract for 5,150 rifles with suppressors, along with 4,696,800 rounds of ammunition to be supplied over the next ten years. The contract was awarded on 12 September 2013.  Remington Defense would produce the Mk 21 sniper rifles and utilized two other companies for other system components, with Barnes Bullets for ammunition and Advanced Armament Corporation for muzzle brakes and suppressors; all three companies are subsidiaries of Remington Outdoor Company. However, it was then decided that the Mk 21 did not conform to SOCOM requirements, and the program was re-competed with the Barrett MRAD selected in 2019 as the Mk 22 Advanced Sniper Rifle solution. The US military opted to use 7.62×51mm NATO, .300 Norma Magnum and instead of the .338 Lapua Magnum the .338 Norma Magnum chambering in their Mk 22 rifles, which have a field-convertible barrel/chambering switch capability.
+
+
+Cartridge dimensions
+Extremely thick-walled brass results in a 7.40 ml (114 grains H2O) cartridge case capacity for the .338 Lapua Magnum. The exterior shape of the case was designed to promote reliable feeding and extraction in bolt action, semi-automatic, and automatic firearms alike, under extreme conditions.
+
+.338 Lapua Magnum maximum C.I.P. cartridge dimensions. All sizes in millimeters (mm).
+Americans define the shoulder angle at alpha/2 ≈ 20 degrees. The common rifling twist rate for this cartridge is 254 mm (1 in 10 in), 6 grooves, Ø lands = 8.38 mm, Ø grooves = 8.58 mm, land width = 2.79 mm and the primer type is large rifle magnum.
+According to the official C.I.P. (Commission Internationale Permanente pour l'Epreuve des Armes à Feu Portatives) decisions and tables edition 2007 the .338 Lapua Magnum case can handle up to 420.00 MPa (60,916 psi) Pmax piezo pressure. This prevails over the C.I.P. decisions and tables edition 2003, that rated the .338 Lapua Magnum at 470.00 MPa (68,168 psi) Pmax maximum piezo pressure. The 470.00 MPa (68,168 psi) Pmax maximum piezo pressure C.I.P. ruling for the .300 Lapua Magnum cartridge, which is based on the same case, was at the time not accordingly changed. In C.I.P. regulated countries every rifle cartridge combo has to be proofed at 125% of the prevailing maximum C.I.P. pressure to certify for sale to consumers. This means that .338 Lapua Magnum chambered arms in C.I.P. regulated countries are  as of 2013 proof tested at 525.00 MPa (76,145 psi) PE piezo pressure.
+Lapua has been ambivalent on the maximum piezo pressure of this cartridge. In the article "From an American dream to a Finnish success story" by Janne Pohjoispää, Lapua propagates the C.I.P. 2007 ruling of 420.00 MPa (60,916 psi) maximum piezo pressure. To further complicate matters the mentioned 56,000 CUP C.I.P. copper crusher pressure translates to around 447.50 MPa (64,904 psi) C.I.P. piezo pressure according to a study on the conversion from CUP to PSI for rifle cartridges by Denton Bramwell. The C.I.P. 2003 ruling of 470.00 MPa (68,168 psi) piezo pressure is corroborated by Lapua Australia in the "History and development of the .338 Lapua Magnum" article by Alan C. Paulson. A reverse engineering simulation with QuickLOAD internal ballistic software predicted that Lapua load their factory .338 Lapua Magnum ammunition at about 420.00 MPa (60,916 psi) piezo pressure, as Paulson asserts in his article.
+The large bolt face combined with the maximum pressure means that the .338 Lapua Magnum is normally only chambered in rifles that are capable of handling such large high-pressure cartridges, and thus high bolt thrust, safely. Chambering such powerful super magnum cartridges in rifles intended for normal magnum rifle cartridges and using high-pressure loads can cause serious or fatal injury to the shooter and bystanders.
+The American .338-378 Weatherby Magnum cartridge introduced in 1998 and the American .338 Remington Ultra Magnum (.338 RUM) cartridge introduced in 2000 are probably the closest ballistics-wise to the .338 Lapua Magnum commercially available as of 2007. The .338-378 Weatherby Magnum is, however, a belted cartridge and the .338 Remington Ultra Magnum is a rebated rim cartridge.
+The American SAAMI (Sporting Arms and Ammunition Manufacturers' Institute) has no normal voluntary guidelines for the .338 Lapua Magnum. On 14 January 2013 it opted to use the metric C.I.P. rulings and add some dimensions that have no C.I.P. analog.
+
+
+Supersonic range performance of the .338 Lapua Magnum
+
+
+Performance with C.I.P. conforming cartridges
+For a typical .338 Lapua Magnum high-end factory military sniper rifle like the Sako TRG-42 with a 690 mm (27.2 in) long 305 mm (1 in 12 inch) rifling twist rate barrel at sea level, 1,500 m (1,640 yd) is considered to be the maximum shooting distance for man-sized targets. When using standard Lapua military 16.2 g (250 gr) loads it has a supersonic range of 1,500 m (1,640 yd) under warm summer conditions at a muzzle velocity of 915 m/s (3,000 ft/s). However, to be able to maintain 80 to 90% hit probability on non-moving 45 cm × 90 cm (17.7 in × 35.4 in) reactive army targets, this maximum shooting distance has to be reduced to 1,300 metres (1,422 yd) at freezing point conditions or 1,100 m (1,203 yd) in Arctic winter conditions, when the muzzle velocity may drop to 880 m/s (2,887 ft/s)—i.e. only during optimal warm summer conditions the 1,500 m (1,640 yd) maximum shooting distance is realistically achievable.
+Loaded with more aerodynamic very-low-drag bullets such as the traditionally lead-cored 19.44 g (300 gr) Lapua Scenar GB528 VLD bullet (G1 BC = 0.736) or the Lost River Ballistics J40 .338 17.5 gram (270 gr) CNC manufactured mono-metal bullet (G1 BC = 0.871) the long-range performance and supersonic range of .338 Lapua Magnum rifles can be improved. These longer very-low-drag bullets require a 254 mm (1 in 10 inch) twist rate to stabilize them. Due to the lower practically possible muzzle velocities for a relative heavy bullet like the 19.44 g (300 gr) Lapua Scenar GB528 VLD bullet it gains about 104 m (114 yd) extra supersonic range under International Standard Atmosphere sea level conditions (air density ρ = 1.225 kg/m3) at a muzzle velocity of 837 m/s (2750 ft/s) when compared to the standard 16.2 g (250 gr) Lapua Scenar GB488 VLD at a muzzle velocity of 915 m/s (3002 ft/s). For significant supersonic range improvement, the aerodynamic efficiency of the employed bullets has to be significantly improved without sacrificing a lot of practically achievable muzzle velocity - meaning that besides the coefficient of drag of the projectile weight is also an important parameter for its actual downrange flight behavior. The .338 17.5 gram (270 gr) Lost River Ballistic Technologies J40 match bullet made out of a copper-nickel alloy is one of the most aerodynamic .338 calibre bullets available. It has an 1,800 m (1,970 yd) supersonic range under optimal warm summer conditions at a muzzle velocity of 869 m/s (2,850 ft/s). This makes engaging static targets up to 1,800 m (1,970 yd) feasible.
+
+
+Performance improvement experiments with non-C.I.P.-conforming cartridges
+Improvement beyond this standard while still using standard .338 Lapua Magnum brass is possible, but the bullets have to be very long (over 5.5 calibers in length) and the normal cartridge overall length of 93.5 mm has to be exceeded, making such cartridges wildcats. The common 254 mm (1:10 inch) rifling twist rate also has to be tightened to stabilize very long projectiles. Such commercially non-existent cartridges are termed "wildcats". The use of a wildcat .338 Lapua Magnum-based cartridge demands the use of a custom or customized rifle with an appropriately cut chamber and fast-twist bore. The firearm action and if a repeating arm is required the magazines must also be able to cope with dimensional increases.
+An example of such a special .338 caliber extreme range bullet is the German CNC manufactured mono-metal 18.92 gram (292 gr) LM-105 (Cd = 0.2487 at Mach 2.216 – this drag coefficient and the corresponding G1, G7 and G8 ballistic coefficients are established by Doppler radar measurements). The LM-105 has a supersonic range of ≈ 1,860 metres (2,030 yd) at a muzzle velocity of 915 metres per second (3,002 ft/s) under International Standard Atmosphere sea level conditions (air density ρ = 1.225 kg/m3). The 2010 version of the LM-105 bullet has an overall length of 54.3 millimetres (2.14 in) or 6.33 calibers and derives its exceptionally low drag from a radical LD Haack or Sears-Haack profile in the bullet's nose area. Rifles chambered for this wildcat cartridge, with a cartridge overall length of 105 millimetres (4.1 in), and equipped with custom made 178 mm (1:7 inch) progressive twist rate 900 millimetres (35.4 in) long barrels with a 2° cone-angle (the standard C.I.P. cone-angle for the .338 Lapua Magnum is 6°) cone area finished first and second at several long-range competitions. Its most recent win (2007) was in an international special forces and police sniper competition in Switzerland against rifles chambered for 7.62×51mm NATO up to .50 BMG at ranges from 100 m – 1,500 m (109 yd – 1,640 yds). The LM-105 bullet exhibited its very low wind drift susceptibility notably at ranges beyond 800 metres (870 yd). A real-world average G1 BC of around 0.83 or a G7 BC of about 0.42 is commonly adopted by the users of this bullet, for making long-range trajectory predictions using ballistics calculators. In contrast the LM-105 designer Lutz Möller originally calculated an optimistic G1 BC of ≈ 0.93 and a supersonic range of ≈ 2,000 metres (2,190 yd) at a muzzle velocity of 915 metres per second (3,002 ft/s) under International Standard Atmosphere sea level conditions (air density ρ = 1.225 kg/m3).
+The .343 Lapua Magnum LM-107 was a wildcat cartridge under development based on the standard .338 Lapua Magnum cartridge case. The LM-107 was hoped to boost the ballistic performance of the LM-105 by achieving an increase in supersonic range. The 19.3 g (298 gr) LM-107 projectile design is 59 millimetres (2.3 in) long and has a Haack profiled nose and an Adams profiled tail. The rifling twist rate for the .343 Lapua Magnum LM-107 wildcat cartridge was chosen at 180 mm (1:7 inch), Ø lands = 8.72 mm, Ø grooves = 8.45 mm and loaded with the LM-107 projectile has a cartridge overall length of 107 millimetres (4.2 in). The length of the neck is increased from 8,31 to 8,50 mm to support the bigger LM-107 bullet. Several other dimensions of the .338 Lapua Magnum parental cartridge are also changed. The shoulder angle gets steepened from 40° to 60° and the body taper is set at 1°. The throat area is set at a 2° cone-angle. All these modifications make the .343 Lapua Magnum a fairly comprehensively revised wildcat cartridge. Out of a 900 millimetres (35.4 in) long progressive twist barrel Möller expected to achieve 909 metres per second (2,982 ft/s) muzzle velocity. If Möller's design assumptions are correct the LM-107 projectile with a calculated G1 BC of 1.02 will offer a supersonic range of ≈ 2,170 metres (2,370 yd) at a muzzle velocity of 909 metres per second (2,982 ft/s) under International Standard Atmosphere sea level conditions (air density ρ = 1.225 kg/m3).
+
+
+As a parent case
+
+
+.300 Lapua Magnum
+The commercially successful .338 Lapua Magnum cartridge has functioned as the parent case for the .300 Lapua Magnum, which is essentially a necked-down version of the .338 Lapua Magnum. The .338 cartridge case was used for this since it has the capability to operate with high chamber pressures which, combined with smaller and hence lighter bullets, result in very high muzzle velocities.
+The Finnish ammunition manufacturer Lapua got the .300 Lapua Magnum C.I.P. certified, so it became an officially registered and sanctioned member of the Finnish "family" of super magnum rifle cartridges. The .300 Lapua Magnum is not commercially available and exists only as a C.I.P. datasheet. It is however still used by a few shooters who produce the cases from .338 Lapua Magnum brass by reshaping the shoulder and neck, and handloading it with .30 calibre bullets.
+The .300 Lapua Magnum has a 7.33 ml (113 grains H2O) cartridge case capacity.
+
+.300 Lapua Magnum maximum C.I.P. cartridge dimensions. All sizes in millimeters (mm).
+Americans define the shoulder angle at alpha/2 ≈ 25 degrees. The common rifling twist rate for this cartridge is 240 mm (1 in 9.45 in), 4 grooves, Ø lands = 7.62 mm, Ø grooves = 7.82 mm, land width = 4.47 mm and the primer type is large rifle magnum.
+According to the official C.I.P. rulings the .300 Lapua Magnum can handle up to 440.00 MPa (63,817 psi) Pmax piezo pressure. This prevails over the C.I.P. decisions and tables edition 2007, that rated the .300 Lapua Magnum at 470.00 MPa (68,168 psi) Pmax piezo pressure.
+The large diameter bolt face, combined with the high maximum pressure, means that the .300 Lapua Magnum is normally only chambered in rifles that are capable of handling the resulting high bolt thrust, safely. Chambering such powerful super magnum cartridges in rifles intended for normal magnum rifle cartridges and using 440.00 MPa (63,817 psi) loads can cause serious or fatal injury to the shooter and bystanders.
+
+
+7.62 UKM
+The .338 Lapua Magnum cartridge is also used as the parent case for the German-designed 7.62 UKM, which is essentially a necked-down shortened version of the .338 Lapua Magnum. The use of the .338 cartridge case with its capability to operate at high chamber pressures resulted in a magnum case capable of producing high muzzle velocities.
+The 7.62 UKM was developed by Michael Uekötter and was C.I.P.-certified in 2002, making it an officially registered and sanctioned member of the Finnish "family" of super magnum rifle cartridges. The 7.62 UKM is not commercially available and exists only as a C.I.P. datasheet. It is however still used by a few shooters who produce the cases from .338 Lapua Magnum brass by reshaping the shoulder and neck, and handloading it with .30 caliber bullets.
+The 7.62 UKM has a 5.84 ml (90 grains H2O) cartridge case capacity.
+
+7.62 UKM maximum C.I.P. cartridge dimensions. All sizes in millimeters (mm).
+Americans  define the shoulder angle at alpha/2 ≈ 20 degrees. The common rifling twist rate for this cartridge is 254 mm (1 in 10 in), 6 grooves, Ø lands = 7.62 mm, Ø grooves = 7.82 mm, land width = 2.79 mm and the primer type is large rifle magnum.
+According to the official C.I.P. rulings the 7.62 UKM Magnum can handle up to 440.00 MPa (63,817 psi) Pmax piezo pressure. This prevails over the C.I.P. decisions and tables edition 2007, that rated the 7.62 UKM at 470.00 MPa (68,168 psi) Pmax piezo pressure.
+
+
+.375 Swiss P
+The .375 Swiss P (9.5×7 0mm) is a C.I.P. registered chambering introduced in 2021 and advertised by RUAG Ammotec as a cartridge that "fills the gap in ballistic performance between the .338 Lapua Magnum (8.6×70 mm) and the .50 BMG (12.7×99mm NATO)". As such, .375 Swiss P was designed to be relatively easily rechambered by a rebarreling as a performance upgrade in sturdily built rifles originally designed around the .338 Lapua Magnum chambering. The .375 Swiss P is a rebated rim bottlenecked cartridge that shares its bolt face, rim diameter, overall length, and maximum operating pressure with the .338 Lapua Magnum chambering. It features a larger 15.73 mm (0.619 in) base diameter as found in the .500 Jeffery. This results in a (P1 - R1 = 0.80 mm (0.031 in)) rebated rim.
+
+
+Wildcats
+
+The .338 Lapua Magnum case is also used as the parent case for a host of modified variants that are not officially registered with or sanctioned by C.I.P. or its American equivalent, SAAMI.  By changing the shape of standard factory cases (decreasing case taper or changing the shoulder geometry) the wildcatter generally increases the case capacity of the factory parent cartridge case, allowing more propellant to be used to generate higher velocities. Besides changing the shape and internal volume of the parent cartridge case, wildcatters also can change the original caliber.  Because the .338 Lapua offers a large and exceptionally sturdy, pressure-resistant cartridge case that can be relatively easily reloaded and hence be reused several times, it has become quite popular amongst wildcatters. With the .338 Lapua Magnum as the parent case wildcatters have created 7 mm (7 mm Allen Magnum, 7 mm Katzmeier, 7 mm Fatso), .30 (.30-338 Lapua (Triebel), .30 Wolf, 300 Allen Express), 8 mm (8 mm-338 Lapua (Triebel), LM-101), .338 (.338 Yogi, LM-105), .343 (.343 Lapua Magnum LM-107), 9.3 mm (9,3-338 Lapua Magnum (Triebel)), .375 (9.5×70 ELR) and .50 calibre (.510 Whisper) variants. Tom Sarver used a .300 Hulk wildcat cartridge, which is basically a necked-down, blown out, shortened .338 Lapua Magnum variant, to achieve a 1.403-inch (35.64 mm) diameter benchrest five-shot group on 7 July 2007, establishing a world record.
+
+
+See also
+12.7×55mm STs-130
+6.5×47mm Lapua
+7.62 UKM
+8 mm caliber
+List of firearms
+List of rifle cartridges
+Table of handgun and rifle cartridges
+List of sniper rifles
+
+
+Notes
+
+
+References
+
+
+External links
+
+PGWDTI Timberwolf Tactical rifle (.338 Lapua Magnum and .408 Chey Tac chamberings)
+Lutz Möller's .338 Lapua Magnum Page
+LM-101 Long Range Bullet for an 8 mm - .338 Lapua Magnum High Performance Wildcat Cartridge
+Lapua 338 Magnum, Exclusive Caliber for The New Age of Sniping[usurped]
+.338 Lapua Magnum - "Generation II" ordnance development program by Caina Longbranch Archived 2011-09-11 at the Wayback Machine
+Cartridges for Long-Range Sniping Rifles by Anthony G Williams
+C.I.P. TDCC sheet 338 Lapua Mag.

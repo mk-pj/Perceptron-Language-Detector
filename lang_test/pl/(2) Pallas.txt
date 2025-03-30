@@ -1,0 +1,78 @@
+Tytuł: (2) Pallas
+
+(2) Pallas – duża planetoida krążąca w pasie planetoid w Układzie Słonecznym, druga odkryta planetoida (po Ceres), druga pod względem objętości i trzecia pod względem masy w pasie głównym. Szacuje się, że jej masa stanowi 7% łącznej masy pasa planetoid. Ma masę o 10–30% mniejszą niż (4) Westa; jej średnica to ok. 513 km, jest zatem niewiele mniejsza od Westy. Prawdopodobnie jest to protoplaneta pozostała z okresu formowania się Układu Słonecznego.
+Kiedy 28 marca 1802 roku astronom Heinrich Wilhelm Olbers odkrył Pallas, została ona zaliczona do grona planet, podobnie jak inne planetoidy w początku XIX wieku. Odkrycie wielu innych planetoid po 1845 doprowadziło do ich przeklasyfikowania.
+Powierzchnia Pallas wydaje się być złożona z krzemianów; charakterystyka spektralna powierzchni i szacowana gęstość jest podobna do meteorytów z grupy chondrytów węglistych. Inklinacja orbity równa 34,9° w stosunku do płaszczyzny pasa planetoid jest wyjątkowo duża, także mimośród orbity jest prawie tak duży jak w przypadku Plutona, co sprawia, że wysłanie sond kosmicznych do Pallas jest problematyczne.
+
+
+Nazwa
+Nazwa (2) Pallas pochodzi od przydomka greckiej bogini Ateny. Według jednego z mitów Atena zabiła swoją przyjaciółkę Pallas, a następnie przyjęła jej imię na znak żalu (w mitologii greckiej istnieje kilka męskich postaci o tym imieniu, ale pierwsze planetoidy były niezmiennie nazywane imionami żeńskimi). Jako że Pallas jest imieniem greckim, planetoida ma w języku greckim taką samą nazwę jak uniwersalnie używana, w przeciwieństwie do (1) Ceres, (3) Juno i (4) Westy. Niemal wszystkie języki wykorzystują nazwę „Pallas” lub jej wariant: włoski Pallade, rosyjski Pałłada, hiszpański Palas, arabski Bālās. Jedynym wyjątkiem jest język chiński, w którym Pallas jest nazywana „gwiazdą bogini mądrości” (智神星 zhìshénxīng). Natomiast bogini Pallas w języku chińskim jest nazywana oryginalnym imieniem (w formie dostosowanej do języka: 帕拉斯 pàlāsī).
+Jedna z grup meteorytów żelazno-kamiennych nosi nazwę pallasytów, jednak nie pochodzi ona od planetoidy Pallas, ale od niemieckiego przyrodnika Petera Simona Pallasa. Natomiast pierwiastek chemiczny pallad został nazwany od tej planetoidy, która została odkryta na krótko przed nim.
+Tak jak w przypadku innych planetoid, symbolem astronomicznym dla Pallas jest zakreślony kołem numer odkrycia: ②. Ma ona również starszy, bardziej charakterystyczny symbol, przedstawiający włócznię Pallas Ateny: ⚴ ( lub ).
+
+
+Historia obserwacji
+W 1801 roku astronom Giuseppe Piazzi odkrył obiekt, o którym początkowo sądził, że jest kometą. Wkrótce potem ogłosił swoje obserwacje tego obiektu, wskazując, że powolny jednostajny ruch jest nietypowy dla komety, co sugeruje, że to inny typ obiektu. Został on zagubiony na kilka miesięcy, ale jeszcze w tym roku ponownie odnaleźli go baron von Zach i Heinrich Olbers, po tym, jak Carl Friedrich Gauss obliczył wstępną orbitę dla tego ciała. Obiekt ten został nazwany Ceres i był pierwszą odkrytą planetoidą.
+
+Kilka miesięcy później, podczas kolejnej próby obserwacji Ceres, Olbers zauważył inny ruchomy obiekt w sąsiedztwie. Była to planetoida Pallas, przypadkowo przechodząca w pobliżu Ceres w tym czasie. Odkrycie tego obiektu wzbudziło zainteresowanie społeczności astronomicznej. Astronomowie spekulowali (w oparciu o przewidywania Keplera i późniejszą regułę Titiusa-Bodego), że pomiędzy orbitami Marsa i Jowisza powinna krążyć jeszcze jedna planeta, a niespodziewanie zostało znalezione drugie takie ciało. Kiedy odkryto Pallas, niektóre oszacowania jej wielkości sięgały 3380 km średnicy. Jeszcze niedawno, w 1979 roku, średnicę Pallas oszacowano na 673 km (26% większą niż obecnie uznana).
+
+Orbita Pallas została ustalona przez Gaussa, który odkrył, że jej okres orbitalny równy 4,6 roku jest zbliżony do okresu orbitalnego Ceres. Pallas ma stosunkowo duże nachylenie orbity do płaszczyzny ekliptyki. Przy obserwacji z Ziemi jej rozmiar kątowy zmienia się od 0,171″ do 0,629″.
+W 1917 roku japoński astronom Kiyotsugu Hirayama rozpoczął badania nad ruchem planetoid. Na wykresach ruchu orbitalnego, średniego nachylenia i mimośrodu zbioru planetoid odkrył kilka odrębnych grup. W późniejszym artykule opisał grupę trzech planetoid związanych z Pallas, która została nazwana rodziną planetoidy Pallas od największego członka grupy. Do 1994 roku zostało zidentyfikowanych ponad 10 członków tej rodziny; mają one półosie wielkie pomiędzy 2,50 a 2,82 j.a. i inklinacje 33–38°. Ugrupowanie to łączą nie tylko parametry orbit, ale także wspólne pochodzenie (mniejsze planetoidy to zapewne fragmenty Pallas wybite przez uderzenia), co zostało potwierdzone w 2002 roku przez porównanie ich widm.
+Okultacje gwiazd przez Pallas zaobserwowano kilka razy, w tym 29 maja 1983 roku, kiedy precyzyjne pomiary czasu okultacji przeprowadziło 140 obserwatorów. W wyniku tego uzyskano pierwszy dokładny pomiar jej średnicy.
+Podczas okultacji z 29 maja 1979 roku doniesiono o odkryciu małego księżyca planetoidy o średnicy około 1 km. Nie udało się tego potwierdzić. W 1980 roku przy obserwacjach z użyciem interferometrii plamkowej zgłoszono odkrycie znacznie większego satelity o średnicy 175 km, ale jego istnienie zostało później zanegowane.
+Sygnały radiowe od sztucznych satelitów krążących wokół Marsa i lądowników na jego powierzchni zostały wykorzystane do oszacowania masy Pallas, dzięki drobnym perturbacjom ruchu planety wywołanym przez tę planetoidę.
+Zespół misji Dawn we wrześniu 2007 roku otrzymał czas obserwacji przez Kosmiczny Teleskop Hubble’a, aby obserwować Pallas przy okazji zdarzającego się raz na dwadzieścia lat zbliżenia, w celu uzyskania danych potrzebnych do porównania jej z Ceres i Westą.
+
+
+Charakterystyka fizyczna
+
+Zarówno Westa, jak i Pallas bywają uznawane za drugą co do wielkości planetoidę w pasie głównym. Pallas jest nieco większa od Westy, za to ma mniejszą masę, równą zaledwie 22% masy Ceres i 0,3% masy Księżyca.
+Pallas jest dalej od Ziemi i ma znacznie mniejsze albedo niż Westa, w związku z czym widziana z Ziemi jest słabszym obiektem. Dużo mniejsza (7) Iris obserwowana w opozycji jest zazwyczaj nieznacznie jaśniejsza od Pallas. Średnia obserwowana wielkość gwiazdowa Pallas w opozycji wynosi 8,0m, co umożliwia jej obserwację z użyciem lornetki 10×50, ale w przeciwieństwie do Ceres i Westy jej obserwacje wymagają większej mocy optycznej przy małej elongacji, gdy wielkość gwiazdowa sięga 10,6m. Podczas rzadkich opozycji w peryhelium Pallas może osiągnąć wielkość +6,4m, na skraju widoczności gołym okiem.
+Na podstawie obserwacji spektroskopowych sądzi się, że podstawowym składnikiem powierzchni Pallas są krzemiany o niskiej zawartości żelaza i wody. Do minerałów tego typu należą oliwiny i pirokseny, które znajdują się w chondrach grupy CM. Skład powierzchni Pallas jest bardzo podobny do chondrytów węglistych grupy CR, które są jeszcze uboższe w uwodnione minerały od typu CM. Meteoryt Renazzo, od którego pochodzi oznaczenie grupy, spadł we Włoszech w 1824 roku i jest jednym z najbardziej pierwotnych spośród znanych meteorytów.
+
+Bardzo niewiele wiadomo o ukształtowaniu powierzchni Pallas. Zdjęcia Teleskopu Hubble’a z 2007 ukazują różnice jasności powierzchni (rozmiar piksela wynosi około 70 km), ale niskie albedo Pallas sprawia, że utwory powierzchniowe są na granicy wykrywalności. Krzywe blasku w świetle widzialnym i podczerwieni wykazują niewielką zmienność, ale znaczne różnice są widoczne w ultrafiolecie, co sugeruje istnienie obszaru wyróżniającego się powierzchnią lub składem mineralnym w pobliżu 75° długości zachodniej. Rotacja wydaje się być prosta (zgodna z kierunkiem obiegu Słońca).
+Uważa się, że materia Pallas przynajmniej w pewnym stopniu uległa przekształceniu pod wpływem temperatury i częściowej dyferencjacji, co sugeruje, że jest to protoplaneta. Podczas fazy formowania się planet Układu Słonecznego obiekty rosły poprzez akrecję do mniej więcej wielkości Pallas. Wiele z tych ciał później połączyło się w większe obiekty, które stały się planetami, podczas gdy inne zostały zniszczone w kolizjach z innymi protoplanetami. Pallas i Westa są prawdopodobnie pozostałościami z tego wczesnego etapu powstawania planet.
+Pallas należała do grona kandydatek do miana planety we wczesnym projekcie definicji planety, sformułowanym przez Międzynarodową Unię Astronomiczną w 2006 roku, ale nie zakwalifikowała się w ostatecznej definicji, ponieważ nie „wyczyściła” otoczenia swojej orbity z mniejszych ciał.
+Jest możliwe, że Pallas zostanie sklasyfikowana jako planeta karłowata, jeśli okaże się, że jest w równowadze hydrostatycznej.
+
+
+Orbita i obrót
+
+Parametry dynamiczne Pallas są niezwykłe dla tak dużego ciała. Jej orbita jest silnie nachylona (34,92° do ekliptyki, 34,21° do płaszczyzny niezmiennej Laplace’a) i nieco ekscentryczna. Odróżnia to ją od ciał krążących w centralnej części pasa planetoid, w tej samej średniej odległości od Słońca. Ponadto nachylenie jej osi jest bardzo wysokie, równe 78 ± 13° lub 65 ± 12° (w oparciu o niejednoznaczną analizę krzywej blasku), biegun obrotu wskazuje kierunek o współrzędnych ekliptycznych (β, λ) = (−12°, 35°) lub (43°, 193°) z niepewnością 10°.
+Obserwacje Teleskopu Hubble’a z 2007 roku, jak również obserwacje przez teleskopy Kecka w latach 2003–2005 wskazują, że poprawne jest pierwsze rozwiązanie. Oznacza to, że w czasie lata i zimy (na obu półkulach Pallas) duża część jej powierzchni jest stale oświetlona lub pozostaje stale w ciemności, przez czas rzędu roku ziemskiego.
+
+
+Współmierności ruchów
+Pallas wykazuje współmierność okresu obiegu z Ceres, która nie jest jednak rzeczywistym rezonansem orbitalnym. Jest również blisko rezonansów 18:7 (okres 6500 lat) oraz w przybliżeniu 5:2 (okres 83 lat) z Jowiszem.
+
+
+Tranzyty planet z Pallas
+Z Pallas czasami widoczne są tranzyty Merkurego, Wenus, Ziemi i Marsa przed tarczą Słońca. Ostatnie tranzyty Ziemi z Pallas były widoczne w latach 1968 i 1998, a kolejny tranzyt nastąpi w 2224. Merkury przeszedł przed tarczą Słońca w październiku 2009 roku. Ostatni tranzyt Wenus miał miejsce w 1677, a Marsa w 1597, następny tranzyt Wenus nastąpi w 2123, a Marsa w 2759.
+
+
+Badania
+Pallas nie była dotąd bezpośrednio badana przez sondę kosmiczną. W drugiej dekadzie XXI wieku istniała możliwość, że sonda Dawn po zakończeniu badań Westy i Ceres może dokonać krótkiego przelotu w pobliżu Pallas, podczas jej przejścia przez płaszczyznę ekliptyki w grudniu 2018, o ile wystarczy jej paliwa. W czasie misji pojawiły się jednak problemy z kołem reakcyjnym, które przekreśliły ten plan. Ze względu na duże nachylenie orbity Pallas nie jest możliwe, aby sonda taka jak Dawn znalazła się na zbliżonej orbicie; badania Pallas wymagałyby inaczej zaprojektowanej misji.
+
+
+Zobacz też
+Lista planetoid 1–1000
+Lista ponumerowanych planetoid
+
+
+Uwagi
+
+
+Przypisy
+
+
+Bibliografia
+(2) Pallas w bazie Jet Propulsion Laboratory (ang.)
+(2) Pallas w bazie Minor Planet Center (ang.)
+
+
+Linki zewnętrzne
+Diagram orbity (2) Pallas w bazie Jet Propulsion Laboratory (ang.)
+Jonathan Amos: Pallas is ‘Peter Pan’ space rock. BBC, 2009-10-11. [dostęp 2014-08-19]. [zarchiwizowane z tego adresu (2014-01-06)].
+Tony Dunn: Ceres, Pallas Vesta and Hygeia. GravitySimulator.com, 2006. [dostęp 2014-08-19]. [zarchiwizowane z tego adresu (2014-07-30)].
+Tedesco, Edward F.; Noah, Paul V.; Noah, Meg; Price, Stephan D. The Supplemental IRAS Minor Planet Survey. „The Astronomical Journal”. 123 (2), s. 1056–1085, 2002. DOI: 10.1086/338320. Bibcode: 2002AJ....123.1056T. 
+Donald K. Yeomans: Horizons system. NASA/JPL. [dostęp 2014-08-19]. – aktualne efemerydy można uzyskać z systemu Horizons.

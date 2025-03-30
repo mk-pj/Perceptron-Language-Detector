@@ -1,0 +1,119 @@
+Tytuł: (4) Vesta
+
+(4) Vesta es el segundo objeto con más masa del cinturón de asteroides y el tercero en tamaño, con un diámetro principal de unos 530 kilómetros y una masa estimada del 9 % del cinturón de asteroides entero. Vesta perdió cerca del 1 % de su masa en un impacto ocurrido hace poco menos de mil millones de años. Muchos fragmentos de este impacto han chocado con la Tierra, constituyendo una fuente rica de información sobre el asteroide.[2]​ Vesta es el asteroide más brillante y el único en ocasiones visible a simple vista como un astro de sexta magnitud. El punto más lejano en su órbita al Sol supera en no mucho al punto más cercano al sol de la órbita de Ceres.
+
+
+Descubrimiento
+Vesta fue descubierto el 29 de marzo de 1807 desde Bremen por el médico y físico alemán Heinrich Wilhelm Olbers, cuyas aficiones llevaron a estudiar la órbita de los cometas (de hecho, descubrió cinco cometas, además de los asteroides Vesta y Palas). Olbers bautizó al asteroide como Vesta, la diosa virgen romana del hogar, a sugerencia del matemático Carl Friedrich Gauss.
+Tras el descubrimiento de Vesta en 1807, se tardó otros 38 años en encontrar un nuevo asteroide, (5) Astraea. Durante este tiempo, a los cuatro asteroides conocidos se los contaba como planetas y cada uno tenía su propio símbolo planetario. Vesta normalmente era representado por la forma estilizada de una altar con su llama sagrada[3]​ (). Es una simplificación del anciano símbolo .[4]​ El símbolo original de Gauss era .
+
+
+Características físicas
+
+Vesta es el segundo cuerpo con más masa en el cinturón de asteroides (9 %) y el más denso de los asteroides. Los científicos creen que este cuerpo presenta un interior diferenciado en capas, con un núcleo de hierro-níquel y un manto rico en olivino.[5]​[6]​ Está en el Cinturón Interior Principal, que se encuentra por dentro de los Huecos de Kirkwood a 2.50 UA. Es similar a (2) Palas en volumen, pero significativamente más masivo.
+La forma de Vesta es relativamente cercana a un esferoide achatado gravitacionalmente relajado,[7]​ pero la gran concavidad y protrusión en el polo le descartan de ser considerado un planeta bajo la Resolución XXVI 5 de la IAU. En cualquier caso, esta resolución fue rechazada por los miembros de la IAU y Vesta continuará siendo considerado como asteroide. Sin embargo, es posible que Vesta pueda ser clasificado como planeta enano en el futuro, si se determina convincentemente que su forma, aparte de su cuenca de impactos masivos en el polo sur, es debida a equilibrio hidrostático. «No creo que a Vesta se lo deba llamar asteroide», dice Tom McCord, un investigador adjunto del proyecto Dawn, en el Instituto Bear Fight, ubicado en Winthrop, Washington. «Vesta no solamente es mucho más grande, sino que además es un objeto evolucionado, a diferencia de la mayoría de los que denominamos asteroides».[8]​
+Su rotación es relativamente rápida para un asteroide (5.34 h) y prograda, con el polo norte apuntando en la dirección de ascensión recta 20 h 32 min, declinación +48° con una incertidumbre de unos 10°. Esto da una oblicuidad de la eclíptica de 29°.[7]​
+Las temperaturas en la superficie se han estimado en torno a los –20 °C con el Sol en lo alto, cayendo hasta los –190 °C en el polo invernal. Las temperaturas típicas del día y la noche son –60 °C y –130 °C, respectivamente. Esta estimación es del 6 de mayo de 1996, muy cercana al perihelio, mientras que los detalles varían algo entre temporadas.
+
+
+Órbita
+Vesta órbita alrededor del Sol entre Marte y Júpiter, dentro del cinturón de asteroides, con un período de 3.6 años terrestres,[9]​ específicamente en el cinturón de asteroides interior, dentro de los Huecos de Kirkwood a 2.50 AU. Su órbita es moderadamente inclinada (i = 7.1°, en comparación con 7° para Mercurio y 17° para Plutón) y con una excentricidad orbital moderada (e = 0.09, coincidente con el valor de 0.09 para Marte).[9]​
+Los fenómenos de auténtica resonancia orbital entre asteroides se consideran improbables, debido a sus pequeñas masas en relación con sus grandes distancias, por lo que tales relaciones deben ser muy raras.[10]​ Sin embargo, Vesta es capaz de capturar otros asteroides en relaciones orbitales resonantes temporales 1:1 (durante períodos de hasta 2 millones de años o más). Se han identificado unos cuarenta objetos en esta situación.[11]​ Los objetos de tamaño decamétrico detectados en la vecindad de Vesta por Dawn pueden ser más cuasisatélites que satélites propiamente dichos.[11]​
+
+
+Sistemas de coordenadas
+
+Coexisten dos sistemas de coordenadas en uso para Vesta, con sus respectivos meridianos de referencia separados por 150°. La Unión Astronómica Internacional estableció un sistema de coordenadas en 1997 basado en las fotografías del Hubble, con el meridiano principal pasando por el centro de Olbers Regio, una zona oscura de 200 km de diámetro. Cuando la sonda Dawn llegó a Vesta, los científicos de la misión encontraron que la ubicación del polo asumida por la UAI estaba desplazada 10°, de modo que el sistema de coordenadas de la UAI se desplazaba a través de la superficie de Vesta a razón de 0.06° por año. Olbers Regio no es discernible de cerca, y por lo tanto no era adecuada para definir el meridiano principal con la precisión necesaria. Se corrigió el polo, pero también se estableció un nuevo meridiano principal a 4° desde el centro de Claudia, un cráter de 700 metros de diámetro nítidamente definido, que permite mejorar los resultados de la toma de datos cartográficos.[12]​ Todas las publicaciones de la NASA, incluyendo imágenes y mapas de Vesta, utilizan el meridiano Claudiano, que no ha sido aceptado por la UAI. A su vez, el Grupo de Trabajo de la UAI sobre Coordenadas Cartográficas y Elementos Rotacionales recomendó un sistema de coordenadas propio, corrigiendo el polo pero girando la longitud Claudiana en 150° para hacer coincidir el meridiano de referencia con Olbers Regio.[13]​ Este sistema fue aceptado por la UAI, aunque interrumpe los mapas preparados por el equipo del Dawn, que se habían configurado de modo que ninguna de las principales características de la superficie de Vesta quedase en planos distintos.[12]​
+
+
+Estudios sobre Vesta
+
+La estructura dispuesta en capas de Vesta (núcleo, manto, corteza) es la característica clave que hace que Vesta sea más parecido a los planetas como la Tierra, Venus y Marte, que otros asteroides. Al igual que los planetas, Vesta contenía suficiente material radiactivo en su interior cuando se formó a partir de la colisión y fundición de fragmentos. Esto liberó suficiente calor como para derretir la roca y permitir que las capas más livianas flotaran hacia la superficie. Los científicos llaman a este proceso "diferenciación".[8]​
+En los primeros tiempos del sistema solar, Vesta estaba lo suficientemente caliente como para que su interior se fundiese. Esto provocó su diferenciación de los asteroides. Es probable que tenga una estructura estratificada: un núcleo metálico de hierro-níquel rodeado de un manto de olivina. La superficie es de roca basáltica formada de antiguas erupciones volcánicas; obviamente existió alguna clase de breve actividad volcánica. Esto hace que Vesta sea diferente a los demás asteroides y en cierto sentido lo acerca a los planetas terráqueos, que sufrieron procesos geológicos similares.
+Sin embargo, no fue el único de su clase: originalmente existieron con probabilidad docenas de grandes planetoides, pero todos los demás fueron hechos pedazos durante los primeros tiempos de caos, formando familias de asteroides más pequeños. Se cree que los asteroides metálicos de hierro-níquel proceden de los núcleos de estos grandes cuerpos, mientras que los rocosos proceden de sus mantos y cortezas.
+Ni siquiera Vesta ha permanecido intacto. En 1996 el telescopio espacial Hubble detectó un cráter enorme en Vesta, con un tamaño 430 km y quizá 1000 millones de años de antigüedad. Se cree que este cráter puede ser el origen de los pequeños asteroides de tipo V o Vestoides que se conocen en la actualidad.
+En 2001 se determinó que uno de estos asteroides llamado (1929) Kollaa no solo era un trozo de Vesta, sino también que el lugar exacto de su formación fue la parte profunda de la corteza.
+El efecto Yarkovsky junto con la perturbación provocada por planetas y asteroides hacen que la familia Vesta se disperse. Alguno de estos asteroides, como (9969) Braille, se han convertido en asteroides cercanos a la Tierra. Fragmentos más pequeños han llovido como meteoritos. Se cree que Vesta es el origen de los meteoritos HED.
+El Instituto de Ciencia Especial y Astronáutica (Institute of Space and Astronautical Science, ISAS) informó que sus investigadores habían encontrado agua en Vesta tras realizar observaciones con el telescopio de infrarrojos de 3.8 m UKIRT en marzo de 2003.[14]​ Se cree que los «minerales hidratados o hidroxidados de la superficie» proceden de impactos de asteroides condritos carbonatados más que de Vesta en sí mismo.
+Se espera que el conocimiento que tenemos de Vesta crezca tremendamente tras la entrada de la sonda espacial Dawn en órbita alrededor del asteroide en agosto de 2011, en la que permanecerá hasta mayo de 2012.[15]​[16]​[17]​
+
+
+Geología
+Hay una gran colección de muestras accesible a los potenciales científicos, en forma de más de 200 meteoritos HED, dando una idea de Vesta de la historia geológica y la estructura.
+Se cree que (4) Vesta posee un núcleo metálico de hierro-níquel; más arriba, un manto rocoso de olivino y por último una corteza. Desde la primera aparición de inclusiones ricas en Calcio y Aluminio (la primera materia sólida del sistema solar, formado hace unos 4567 millones de años). Un posible cronograma de la geología de Vesta es el siguiente:[18]​[19]​[20]​
+
+Se termina la acreción después de unos 2-3 millones de años.
+Se completa o casi se completa la fusión debido a la desintegración radiactiva del Al26, que conduce a la separación de los metales básicos en unos 4-5 millones de años.
+Progresiva cristalización de un manto fundido y convectivo. La convección se detiene cuando cerca del 80 % se ha cristalizado, en aproximadamente 6-7 millones de años.
+La extrusión del material fundido remanente para formar la corteza. Cada lava basáltica en erupciones progresivas o posiblemente formando un océano de magma de corta vida.
+Las capas más profundas de la corteza cristaliza para formar rocas plutónicas, mientras que los viejos basaltos son metamorfizados debido a la presión de las nuevas capas de superficie.
+Lento enfriamiento del interior.
+
+Vesta es el único asteroide intacto conocido que ha sido repavimentado de esta manera. Sin embargo, la presencia de meteoritos de hierro y acondrita sin padres identificados indica que una vez hubo otros planetesimales diferenciados con historias ígneas, que han sido hechos añicos por los impactos.
+La corteza de Vesta se ha razonado que consiste en (en orden de profundidad creciente):[21]​
+
+Un regolito litificado, la fuente de las howarditas y las eucritas brecciadas.
+La lava basáltica que fluye, la fuente de eucritas no acumulativas.
+Las rocas plutónicas consistentes en piroxeno, pigeonita y plagioclasa, la fuente de eucritas acumulativas.
+Las rocas plutónicas ricas en ortopiroxeno con grandes porciones granuladas, la fuente de diogenitas.
+Basándose en los tamaños de asteroides de tipo V (que se piensa que son piezas de la corteza de Vesta expulsados durante grandes impactos) y la profundidad del cráter del polo sur, la corteza se piensa que tiene un grosor de unos 10 km.
+
+
+Características de la superficie
+
+Algunas características de la superficie de Vesta se han resuelto utilizando el Telescopio espacial Hubble y otros telescopios terrestres como el Telescopio Keck.
+La característica de la superficie más destacada es un enorme cráter de 460 km de diámetro centrado cerca del polo Sur[7]​ al que se le ha puesto el nombre de Rheasilvia.[22]​ Su anchura es el 80 % de todo el diámetro de Vesta. El suelo de este cráter está a unos 13 km y su borde aparece 4-12 km por encima del terreno circundante, con una superficie total estimada de unos 25 km. Un pico central aparece a unos 18 km hacia arriba del suelo del cráter. Se estima que el impacto responsable excavó aproximadamente el 1 % de todo el volumen de Vesta y es probable que la familia de asteroides de Vesta y los asteroides tipo V son producto de esta colisión. Si este es el caso, entonces, el hecho de que 10 km de fragmentos de la familia de asteroides de Vesta y asteroides tipo V han sobrevivido al bombardeo hasta que el presente indica que el cráter es solo de hace 1000 millones de años o más joven.[23]​ También sería la zona de origen de los meteoritos HED. De hecho, todos los asteroides tipo V tomados en cuenta en conjunto son solo el 6 % del volumen expulsado, el resto presumiblemente son pequeños fragmentos, expulsados por unos huecos de Kirkwood de relación 3:1 o perturbados por el efecto Yarkovsky o presión de radiación. Los análisis espectroscópicos de las imágenes del Telescopio espacial Hubble[23]​ han demostrado que este cráter ha penetrado profundamente a través de distintas capas de la corteza y posiblemente en el manto que es indicado por firmas espectrales de olivino. De modo interesante Vesta no fue interrumpido ni repavimentado por un impacto de esta magnitud.
+Otros grandes cráteres de unos 150 km de ancho y 7 km de profundidad también están presentes. Un albedo oscuro característico de unos 200 km ha sido nombrado Olbers en honor del descubridor de Vesta, pero no aparece en los mapas de elevación como un cráter y su naturaleza se sigue sin conocer, tal vez una antigua superficie basáltica.[24]​ Sirve como punto de referencia de la longitud (Meridiano cero) definido como el que pasa a través de su centro.
+Los hemisferios oriental y occidental muestran terrenos considerablemente diferentes. Desde los análisis espectrales preliminares de imágenes del Telescopio espacial Hubble,[23]​ el hemisferio oriental parece tener algún tipo de albedo alto, con un gran terreno en lo alto del cráter de edad regolítica y los cráteres investigados en capas plutónicas más profundas de la corteza. Por otra parte, grandes regiones del hemisferio occidental se asumen como unidades geológicas oscuras que se piensan que son de superficie basáltica, tal vez análogo al Mar lunar.
+
+
+Fragmentos
+Varios pequeños objetos del sistema solar se cree que son fragmentos de Vesta causados por colisiones. Los asteroides de la familia Vesta y los meteoritos HED son ejemplos de ellos. Se ha determinado que el asteroide tipo V (1929) Kollaa tiene una composición semejante a eucritas cumulativas, indicando su origen profundo dentro de la corteza de Vesta.[2]​
+Debido a que varios meteoritos se piensa que son fragmentos de Vesta, este planeta actualmente es uno de los cinco cuerpos del sistema solar identificados de los que se tienen fragmentos físicos. Los otros son Marte, la Luna, el cometa 81P/Wild y la propia Tierra.
+
+
+Exploración de Vesta
+
+La sonda espacial Dawn[25]​ de la NASA fue lanzada el 27 de septiembre de 2007 y es la primera misión espacial a Vesta. Orbitó alrededor del asteroide durante nueve meses, desde agosto de 2011 hasta mayo de 2012.[15]​[16]​ Después Dawn fue a su otro objetivo en el año 2015, Ceres y seguirá explorando el cinturón de asteroides en una misión extendida utilizando todo el combustible restante. La nave espacial es la primera en poder entrar y dejar de orbitar alrededor de más de un cuerpo, gracias a sus eficientes motores a propulsión iónica.[15]​[16]​
+En 2006 la NASA intentó cancelar Dawn, alegando presiones presupuestarias y cuestiones técnicas, pero los científicos apelaron y se añadieron 100 millones de dólares adicionales para continuar el programa. El coste total de la misión será de unos 450 millones de dólares.
+
+En los 14 meses que Dawn estuvo orbitando alrededor de Vesta, ha sido capaz de mapear la superficie del asteroide. De la información obtenida a través de estos mapas se ha determinado que se produjeron dos grandes eventos de impacto meteoríticos, llamados Veneneia y Rheasilvia, que moldearon inicialmente el aspecto de Vesta. Sin embargo, otro gran evento posterior, llamado Marcia, moldeó el asteroide hasta su configuración actual.[25]​
+
+
+Visibilidad
+
+Su tamaño y su inusual superficie brillante hacen de Vesta el asteroide más brillante y ocasionalmente es visible por el ojo humano en cielos oscuros sin polución. Recientemente, en mayo y junio de 2007, Vesta alcanzó un pico de magnitud de +5.4, la más brillante desde 1989.[26]​
+En ese momento, la oposición y el perihelio estaban solo a unas pocas semanas de distancia. Fue visible en las constelaciones de Ofiuco y Scorpius.[27]​
+Se han tenido oposiciones menos favorables durante el final del otoño en el hemisferio norte de Vesta a una magnitud de unos +7.0.
+Incluso cuando está en conjunción con el Sol, Vesta tendrá una magnitud de unos +8.5, por tanto, en un cielo libre de polución se puede observar con binoculares incluso a elongaciones mucho menores que la oposición cercana.[28]​
+
+
+Véase también
+Lista de asteroides del (1) al (100).
+
+
+Referencias
+
+
+Bibliografía
+Keil, K. «Historia Geológica del Asteroide 4 Vesta: El Planeta Terrestre Más Pequeño.» En Bottke, William Alberto Cellino, Paolo Paolicchi y Richard P. Binzel, (coordinadores). Asteroides III,  Univ. of Arizona Press (2002), ISBN 0-8165-2281-2
+Yeomans, Donald K. «Horizons system». NASA JPL. Consultado el 20 de marzo de 2007.  — Horizontes que pueden ser utilizados para obtener una efeméride actual
+
+
+Enlaces externos
+ Wikimedia Commons alberga una categoría multimedia sobre Vesta.
+Página oficial de la misión Dawn en la NASA: "Dawn at a Glance" Archivado el 30 de diciembre de 2007 en Wayback Machine.
+Otra web de la NASA la sonda Dawn: NASA-Jet Propulsion Laboratory, Dawn Mission
+Vistas del sistema solar: Vesta
+«(4) Vesta» (en inglés). Minor Planet Center. Consultado el 24 de julio de 2015. 
+Web de Hubble: Mapas de Hubble del Asteroide Vesta
+Enciclopedia Británica, Vesta
+Web de Hubble: Hubble Revela el Gran Cráter en la Superficie de Vesta
+Web de Hubble: películas cortas compuestas del Telescopio Espacial Hubble de noviembre de 1994.
+Óptica adaptiva de Vesta desde el Observatorio Keck
+Diferenciación interior de Vesta
+Vesta en el sitio del Laboratorio de Propulsión a Chorro; en inglés.
+Simulación orbital en JPL (Java)
+4 Imágenes de Vesta en ESA/Hubble
+Vistas de Hubble de Vesta en ña Planetary Society Archivado el 29 de marzo de 2012 en Wayback Machine. (incluye animación)
+Farinella, Paolo (2005). «Houston: Se enfoca en Vesta y los HED». Arkansas Center for Space & Planetary Sciences. Archivado desde el original el 5 de julio de 2008. Consultado el 25 de octubre de 2007.

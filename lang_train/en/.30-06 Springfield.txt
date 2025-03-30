@@ -1,0 +1,179 @@
+Tytuł: .30-06 Springfield
+
+The .30-06 Springfield cartridge (pronounced "thirty-aught-six" ), 7.62×63mm in metric notation, and called the .30 Gov't '06 by Winchester, was introduced to the United States Army in 1906 and later standardized; it remained in military use until the late 1970s. In the cartridge's name, ".30" refers to the nominal caliber of the bullet in inches; "06" refers to the year the cartridge was adopted, 1906. It replaced the .30-03 Springfield, 6mm Lee Navy, and .30-40 Krag cartridges. The .30-06 remained the U.S. Army's primary rifle and machine gun cartridge for nearly 50 years before being replaced by the 7.62×51mm NATO and 5.56×45mm NATO, both of which remain in current U.S. and NATO service. The cartridge remains a very popular sporting round, with ammunition produced by all major manufacturers.
+
+
+History
+In the early-1890s, the U.S. military adopted the smokeless powder .30-40 Krag rimmed cartridge. The 1894 version of that cartridge used a 220-grain (14 g) round-nose bullet. Around 1901, the U.S. started developing an experimental rimless cartridge for a Mauser action with a box magazine. That led to the 1903 .30-03 Springfield rimless service round that used the same 220-grain (14 g) round-nose bullet as the Krag. The .30-03 achieved a muzzle velocity of 2,300 ft/s (700 m/s).
+Many European militaries at the beginning of the 20th century were adopting lighter-weight (roughly 150-to-200-grain (9.7 to 13.0 g)), higher velocity, service rounds with pointed (spitzer) bullets: France in 1898 (8×50mmR Lebel Balle D spitzer 198 grains (12.8 g) with boat-tail), Germany in 1903 (7.92×57mm Mauser 153 grains (9.9 g) S Patrone), Russia in 1908 (7.62×54mmR Lyokhkaya pulya [light bullet]), and Britain in 1910 (.303 British Mark VII 174 grains (11.3 g)). Consequently, the round-nosed U.S. .30-03 service cartridge was falling behind.
+
+
+Cartridge, ball, caliber .30, Model of 1906 (M1906)
+For these reasons, the U.S. military developed a new, lighter cartridge in 1906, the .30-06 Springfield, "cartridge, ball, caliber .30, Model of 1906", or just M1906. The .30-03 case was modified to have a slightly shorter neck to fire a spitzer flat-based 150-grain (9.72 g) bullet that had a ballistic coefficient (G1 BC) of approximately 0.405, a muzzle velocity of 2,700 ft/s (820 m/s), and a muzzle energy of 2,429 ft⋅lbf (3,293 J). The cartridge was loaded with military rifle (MR) 21 propellant, and its maximum range was claimed (falsely) to be 4,700 yd (4,300 m). The M1903 Springfield rifle, which had been introduced alongside the .30-03 cartridge, was modified to accept the new .30-06 Springfield cartridge. Modifications to the rifle included shortening the barrel at its breech and resizing the chamber, so that the more tapered bullet would not have to jump too far to reach the rifling. Other changes to the rifle included the elimination of the troublesome "rod bayonet" of the earlier Springfield rifles.
+The M1906 maximum range was originally overstated. When the M1906 cartridge was developed, the range tests had been done to only 1,800 yards (1,650 m); distances beyond that were estimated, but the estimate for extreme range was incorrect by almost 40 percent. The range discrepancy became evident during World War I. Before the widespread employment of light mortars and artillery, long-range machine gun "barrage" or indirect fires were considered important in U.S. infantry tactics. When the U.S. entered World War I, it did not have many machine guns, so it acquired British and French machine guns. When those weapons were later replaced with U.S. machine guns firing the M1906 round, the effective range of the barrage was 50 percent less. Firing tests performed around 1918 at Borden Brook Reservoir (Massachusetts), Miami, and Daytona Beach showed the actual maximum range of the M1906 cartridge to be 3,300 to 3,400 yards (3,020 to 3,110 m). Germany, which was using the S Patrone (S ball cartridge) loaded with a similar 153-grain (9.9 g) flat-based bullet in its rifles, had apparently confronted and solved the same problem by developing an aerodynamically more refined bullet for long-range machine gun use. The s.S. Patrone was introduced in 1914 and used a 197.5-grain (12.80 g) s.S. – schweres Spitzgeschoß (heavy spitzer) boat-tail bullet which had a maximum range of approximately 5,000 m (5,468 yd).
+
+
+.30 M1 ball cartridge
+For these reasons, in 1926, the ordnance corps, after extensive testing of 7.5×55mm Swiss GP11 projectiles provided by the Swiss, developed the .30 M1 ball cartridge loaded with a new improved military rifle (IMR) 1185 propellant and 174-grain (11.28 g) bullet with a 9° boat-tail and an ogive of 7 calibers nose cone that had a higher ballistic coefficient of roughly 0.494 (G1 BC), that achieved a muzzle velocity of 2,647 ft/s (807 m/s) and muzzle energy of 2,675 ft⋅lbf (3,627 J). This bullet further reduced air resistance in flight, resulting in less rapid downrange deceleration, less lateral drift caused by crosswinds, and significantly greater supersonic and maximum effective range from machine guns and rifles alike. Additionally, a gilding metal jacket was developed that all but eliminated the metal fouling that plagued the earlier M1906 cartridge.
+The loaded round weighed 420 grains (27 g) and its maximum range was approximately 5,500 yd (5,030 m). The maximum average pressure (MAP) was 48,000 psi (330.95 MPa). The average target radius was specified to be not greater than 4.5 in (11 cm) at 500 yd (457 m) and not greater than 5.5 in (14 cm) at 600 yd (549 m) when fired from a Mann accuracy weapon.
+
+
+Cartridge, caliber .30, ball, M2
+Wartime surplus totaled over two billion rounds of ammunition. Army regulations called for training use of the oldest ammunition first. As a result, the older .30-06 ammunition was expended for training; stocks of .30 M1 ball ammunition were allowed to slowly grow until all of the older M1906 ammunition had been fired. By 1936, it was discovered that the maximum range of the .30 M1 ball ammunition with its boat-tailed spitzer bullets was beyond the safety limitations of many military firing ranges. An emergency order was made to manufacture quantities of ammunition that matched the external ballistics of the earlier M1906 cartridge as soon as possible. A new cartridge was developed in 1938 that was essentially a duplicate of the old M1906 round, but loaded with IMR 4895 propellant and a new flat-based bullet that had a gilding metal jacket and a different lead alloy, and weighed 152 grains (9.85 g) instead of 150 grains (9.72 g). This 1938 pattern cartridge, the cartridge, caliber .30, ball, M2, achieved a muzzle velocity of 2,805 ft/s (855 m/s) and muzzle energy of 2,656 ft⋅lbf (3,601 J). The loaded round weighed 416 grains (27.0 g) and its maximum range was approximately 3,450 yd (3,150 m). The MAP was 50,000 psi (344.74 MPa) by copper crusher (equivalent to the SAAMI CUP unit). The average target radius was specified to be not greater than 6.5 in (16.5 cm) at 500 yd (457 m) and not greater than 7.5 in (19.1 cm) at 600 yd (549 m).
+
+
+Firearms
+
+In military service, the .30-06 was used in the bolt-action M1903 Springfield rifle, the bolt-action M1917 Enfield rifle, the semi-automatic M1 Garand rifle, the semi-automatic M1941 Johnson rifle, the Famage Mauser, the Browning Automatic Rifle (BAR), and numerous machine guns, including the M1917 and M1919 series. It served the United States in both World Wars and in the Korean War, and its last major use was during the Vietnam War.
+The Belgian army (ABL) bought the FN Model 1949 rifle in .30-06 caliber (both as a sniper version with telescopic sights and as a general service weapon). The Belgian armed forces used the round widely in the Korean war, where the .30-06 caliber FN-49 proved to be a superior weapon in terms of both accuracy and reliability to the American M1 Garand. The .30-06 FN-49 saw widespread use in the various wars in and around the Belgian Congo. The 30-06 FN-49 was also sold to the armies of Luxembourg, Indonesia, and Colombia. Another customer was Brazil where it served the navy.
+Large volumes of surplus brass made it the basis for dozens of commercial and wildcat cartridges, as well as being extensively used for reloading. In 1908 the Model 1895 Winchester lever-action rifle became the first commercially-produced sporting rifle chambered in .30-06 Springfield. It is still a very common round for hunting and is suitable for large game such as bison, Sambar deer, and bear, when used at close to medium ranges.
+In 1903, the Army converted its M1900 Gatling guns in .30 Army to fit the new .30-03 cartridge as the M1903. The later M1903-'06 was an M1903 converted to .30-06. This conversion was principally carried out at the Army's Springfield Armory arsenal repair shops. All models of Gatling guns were declared obsolete by the U.S. Army in 1911, after 45 years of service.
+With "hot" handloads and a rifle capable of handling them, the .30-06 is capable of performance rivaling many magnum cartridges. However, when loaded more closely to the original government specs, .30-06 remains within the upper limit of felt recoil most shooters consider tolerable over multiple rounds, unlike the magnums, and is not unnecessarily destructive of meat on game such as deer. With appropriate loads, it is suitable for any small or large heavy game found in North America. The .30-06's power and versatility (combined with the availability of surplus firearms chambered for it and demand for commercial ammunition) have kept the round as one of the most popular for hunting in North America.
+
+
+Performance
+The .30-06 cartridge was designed when shots of 1,000 yards (914.4 m) were expected. In 1906, the original M1906 .30-06 cartridge consisted of a 150 grains (9.7 g), flat-base cupronickel-jacketed-bullet. After World War I, the U.S. military needed better long-range performance machine guns. Based on weapons performance reports from Europe, a streamlined, 173 grains (11.2 g) boattail, gilding-metal bullet was used. The .30-06 cartridge, with the 173 grains (11.2 g) bullet was called cartridge, .30, M1 ball. The .30-06 cartridge was far more powerful than the smaller Japanese 6.5×50mm Arisaka cartridge and comparable to the Japanese 7.7×58mm Arisaka. The new M1 ammunition proved to be significantly more accurate than the M1906 round.
+In 1938, the unstained, 150 grains (9.7 g), flat-base bullet combined with the .30-06 case became the M2 ball cartridge. The M2 ball specifications required 2,740 feet per second (835.2 m/s) minimum velocity, measured 78 feet (24 m) from the muzzle. M2 ball was the standard-issue ammunition for military rifles and machine guns until it was replaced by the 7.62×51mm NATO round in 1954. For rifle use, M2 ball ammunition proved to be less accurate than the earlier M1 cartridge; even with match rifles, a target group of 5 inches (130 mm) diameter at 200 yards (180 m) using the 150-grain (9.7 g) M2 bullet was considered optimal, and many rifles did not perform nearly as well. The U.S. Marine Corps retained stocks of M1 ammunition for use by snipers and trained marksmen throughout the Solomon Islands campaign in the early years of the war.
+In an effort to increase accuracy, some snipers resorted to use of the heavier .30-06 M2 armor-piercing round, a practice that re-emerged during the Korean War. Others sought out lots of M2 ammunition produced by Denver Ordnance, which had proved to be more accurate than those produced by other wartime ammunition plants when used for sniping at long range. With regards to penetration, the M2 AP round can penetrate at least 0.42 in (10.67 mm) of armor steel at 100 yards (91 m). A test done by Brass Fetchers shows that M2 AP can actually penetrate up to 0.5 in (12.70 mm) of MIL-A-12560 armor steel from a distance of 100 yards (91 m). The round struck the plate at a velocity of 2,601 fps and made a complete penetration.
+
+Commercially manufactured rifles chambered in .30-06 are popular for hunting. Current .30-06 factory ammunition varies in bullet weight from 7.1 to 14.3 grams (110 to 220 grains) in solid bullets, and as low as 3.6 grams (55 grains) with the use of a sub-caliber bullet in a sabot. Loads are available with reduced velocity and pressure as well as increased velocity and pressure for stronger firearms. The .30-06 remains one of the most popular sporting cartridges in the world. Many hunting loads have over 3,000 foot-pounds (4,100 J) of energy at the muzzle and use expanding bullets that can deliver rapid energy transfer to targets.
+
+The table above shows typical muzzle velocities available in commercial 30-06 loads along with the maximum .30-06 muzzle velocities reported by several reloading manuals for common bullet weights. Hodgdon, Nosler, and Barnes report velocities for 24 inches (610 mm) barrels. Hornady and Speer report velocities for 22 inches (560 mm) barrels. The data are all for barrels with a twist rate of 1 turn in 10 inches (250 mm) which is needed to stabilize the heaviest bullets. The higher muzzle velocities reported by Nosler for 165 grains (10.7 g) and heavier bullets use loads employing a slow-burning, double-base powder (Alliant Reloder 22).
+The newer 7.62×51mm NATO/.308 Winchester cartridge offers similar performance to standard military .30-06 loadings in a smaller cartridge.
+
+
+Recoil
+One reason that the .30-06 has remained a popular round for so long is that the cartridge is at the upper limit of power that is tolerable to most shooters. Recoil energy (free recoil) greater than 20 foot-pounds force (27 J) will cause most shooters to develop a serious flinch, and the recoil energy of an 8-pound (3.6 kg) rifle firing a 165-grain (10.7 g) 30-06 bullet at 2,900 feet per second (880 m/s) is 20.1 foot-pounds force (27.3 J). Recoil-shy shooters can opt for lighter bullets, such as a 150-grain (9.7 g) bullet. In the same 8-pound (3.6 kg) rifle, a 150-grain (9.7 g) bullet at 2,910 feet per second (890 m/s) will only generate 17.6 foot-pounds force (23.9 J) of recoil energy. Young shooters can start out with even lighter bullets weighing 110, 125, or 130 grains (7.1, 8.1, or 8.4 g).
+
+
+Cartridge dimensions
+
+The .30-06 Springfield cartridge case can hold 68.2 grains and has a volume of 4.42 millilitres (0.270 in3). The exterior shape of the case was designed to promote reliable case feeding and extraction in bolt-action rifles and machine guns alike, under extreme conditions.
+
+.30-06 Springfield maximum C.I.P. cartridge dimensions. All sizes in millimeters.
+Americans define the shoulder angle at alpha/2 = 17.5 degrees. According to the Commission Internationale Permanente pour l'Epreuve des Armes à Feu Portatives (C.I.P.) the common rifling twist rate for this cartridge is 254 mm (1 in 10 in), 4 grooves, Ø lands = 7.62 mm (.30 in), Ø grooves = 7.82 mm (.308 in), land width = 4.49 mm (.1768 in) and the primer type is large rifle.
+According to the official C.I.P. guidelines, the .30-06 Springfield case can handle up to 405 MPa (58,740 psi) piezo pressure. In C.I.P.-regulated countries, every rifle cartridge combination has to be proofed at 125% of this maximum C.I.P. pressure to certify for sale to consumers. The 8×64mm S is the closest European ballistic twin of the .30-06 Springfield.
+
+
+Sporting use
+Although the .30-06 was designed as a military round, it soon caught the attention of big game hunters in the United States. This new cartridge offered a flatter trajectory and carried more energy than the popular .30-30 Winchester. The .30-06 also could be loaded with the then new spitzer designed projectiles, which also contributed to extending the cartridge's performance with respect to other .30 caliber bullets fired from lever action rifles, making it easier to put venison on the table.
+It is a very versatile round that may be loaded with bullets ranging from 110 to 220 grains, which may be effectively stabilized from 1:10" twist barrels. Thus, the cartridge may be used to hunt animals of different sizes from varmint to moose and even brown bears with adequately constructed heavy bullets. Since the cartridge may be used for taking all North American big game species it was considered an all-round by hunters and gun writers as Jack O'Connor, who hunted extensively with it.
+President Theodore Roosevelt took a .30-06 to his famous African Safari along with his son Kermit and Frederick Courteney Selous, proving that the .30-06 could bring down game of any size. Though not optimal for dangerous game, the .30-06 is adequate for hunting African plains game.
+With 150-grain bullets, the .30-06 Springfield is a perfect option for medium-sized game such as deer and sheep. Leaving the muzzle at 2950 fps, it gives the hunter a maximum point blank range slightly short of 300 yards. The 165 and 168-grain bullets with higher ballistic coefficient contribute to buck cross winds more efficiently and maintain downrange energy at expense of a more curved trajectory, while loaded with 180 to 220 grains, the .30-06 is adequate for hunting larger game such as elk, moose, and even brown bears.
+The .30-06 is also the parent case for many other popular hunting cartridges such as the venerable .270 Winchester, the .25-06 Remington, the .280 Remington, and the .280 Ackley Improved. All of them are balanced, flat-shooting cartridges ranking high among the most popular big game hunting cartridge for mid-sized species worldwide.
+Despite the new trend towards high ballistic coefficient cartridges, designed to be used with short length actions, hunters still praise the .30-06 as it still lists high on the rank of big game hunting cartridges popularity, and every major gun maker worldwide chambers it in at least one of its rifles.
+
+
+Military cartridge types
+
+Note: .30-06 cartridges are produced commercially with many different bullets and to a number of different specifications.
+
+
+United States
+The .30-06 round was replaced by the 7.62×51mm NATO round in 1954. However, it remained in limited use in the army reserves and national guard for some time; Frankford Arsenal only stopped production in 1961, and Lake City Army Ammunition Plant was making .30-06 until the late 1970s, with new production batches in 1993 and 2002. 
+The "T" (Trials) designation is the code number it had when it was under development and testing. The "M" (Model) designation is the number it received when it was made standard-issue. Issued bullets before 1934 used the year of adoption as their model number.   
+
+Armor-piercing, M1917: The M1917 was the first service-issue armor-piercing rifle ammunition used by the US Army. It had a steel core in a lead envelope with a partial cupro-nickel jacket which had an exposed soft tip. The exposed tip was designed to aid in the envelope peeling away on impact to allow the core to strike the target. It had the unintended effect of making the thin lead envelope an expanding bullet. Since expanding bullets were seen as violating the Hague Convention it did not see service in World War I.
+Armor-piercing, M1918: The M1918 was similar to the armor-piercing M1917 round except it had a smooth cannelure near the case-mouth and had a full-metal-jacketed bullet. It replaced the AP M1917 round in service.
+Armor-piercing, M1922 (1922–1934): This was a redesigned armor-piercing round with a heavier steel core. It was the first armor-piercing round to have a black-painted bullet tip.
+Armor-piercing, M1 (1934–1939): This was a higher-velocity (3,180 fps) AP round that was under development throughout its service. It was replaced in 1939 by the AP M2, a redesign of the AP M1922.
+Armor piercing, M2 (1939–1954): This cartridge is used against lightly armored vehicles, protective shelters, and personnel, and can be identified by its black bullet tip. Bullet is flat base, weight 163–168 grains. Defense against the M2 projectile by name is one of the performance standards for Type IV body armor.
+Armor-piercing incendiary, T15/M14 (1943–?) and M14A1 (?-1954): This cartridge may be substituted for the M2 armor-piercing round and is normally employed against flammable targets. The tip of the M14 bullet is colored with a blue tip over a black ring. The M14A1 featured an improved core design and incendiary charge and had a silver-colored aluminum-painted tip.
+Ball, M1906 (1906–1925): This cartridge is used against personnel and unarmored targets and can be identified by its silver-colored cupro-nickel alloy bullet jacket. The M1906 has a 9.7 g (150-grain) projectile and flat base. Its jacket was found to quickly foul the bore.
+Ball, M1 (1925–1937): The M1 has an 11.2 g (173-grain), 9-degree boat-tailed projectile designed for aerodynamic efficiency. Though it had a lower initial velocity, velocity and energy were greater at longer ranges due to its efficient shape. The harder bullet was made of seven parts lead to one part antimony. The jacket material was changed to gilding metal (an alloy of 95% copper and 5% zinc) to reduce fouling.
+Ball, M2 (1937–1954): With a 9.7 g (150-grain) bullet based on the profile of the M1906, this cartridge incorporated the gilding-metal jacket of the M1 projectile combined with a slightly heavier, pure-lead core. It had a higher muzzle velocity than either of the earlier cartridges.
+Ball, M2 alternate (1943–1945): A wartime economy variant of the ball M2 that used a steel full metal jacket coated with gilding metal to conserve copper and tin.
+Blank, M1906: This cartridge is used to simulate rifle fire. It is derived from the M1903 blank, but with a resized neck. It has a paper bullet that contains a tiny black powder charge to aid in breaking it up.
+Blank, M1909: This cartridge is used to simulate rifle fire. The cartridge is identified by having no bullet, having a cannelure in the neck of the case, and the crimp is sealed by red lacquer. This is still a current cartridge for ceremonial M1 Garands. Modern M1909 blanks are rose-crimped, but they have the same designation.
+
+Dummy, M40: This cartridge is used for training. The cartridge case has six longitudinal corrugations and there is no primer.
+Explosive, T99: Development of a cartridge that contained a small explosive charge that more effectively marked its impact. Often referred to as an "observation explosive" cartridge, it was meant to designate line-of-sight targets for cannon. The T99 was never adopted.
+Frangible, T44/M22 (April 1945): The bullet disintegrates upon striking a hard or armored target, leaving a pencil-like mark to indicate a hit during bomber aerial gunnery practice. The bullet is identified by a green tip over a white ring.
+Gallery practice M1919 / Guard M1: A reduced-charge Ball cartridge with a 140-grain wax-coated lead round-nosed bullet used for target shooting at indoor facilities or near built-up areas. It was later renamed the Guard M1 in 1933 and was used for guard and sentry duty at defense plants and military installations during World War II.
+Guard M1906 (1907–1918): A reduced-charge ball cartridge with a 150-grain FMJ pointed-nose bullet used for guard and sentry duty in built-up areas. The cartridge was originally marked with six cannelures in the middle, but this weakened the case and caused it to burst in a dirty rifle. It was later marked by six dents or flutes on the shoulder of the cartridge. Although production stopped in 1918, there were plenty of stocks of the oddball round left until the 1920s.
+High-pressure test, M1: The cartridge is used to proof test 30-06 rifles and machine guns after manufacture, test, or repair. The cartridge is identified by stannic-stained (silvered) cartridge case loaded to a pressure of 60,000–70,000 psi (413.7–482.6 MPa).
+Incendiary, M1917: Early incendiary cartridge, bullet had a large cavity in the nose to allow the material to more easily shoot forward on impact. As a result, the M1917 had a tendency to expand on impact. The M1917 had a blackened tip.
+Incendiary, M1918: Variant of the M1917 with a normal bullet profile to comply with international laws regarding open-tipped expanding bullets.
+Incendiary, M1: This cartridge is used against unarmored, flammable targets. The tip of the bullet is painted blue.
+Match, M72: This cartridge is used in marksmanship competitions, and can be identified by the word MATCH on the headstamp. Ammunition lots loaded for use in specific competitions have been headstamped NM (National Match), IM (International Match), PM or P (Palma Match), and I & P (International and Palma Matches).
+Rifle Grenade cartridge, VB (?-1933): These cartridges were designed to launch the Viven-Bessières rifle grenade. The VB rifle grenade was initiated when a Ball bullet passed through it. The Rifle Grenade Cartridge had a wooden bullet so it could have a reduced danger space when fired. It was used with inert Training/Practice grenades at training ranges that were near built-up areas. It had a "VB" headstamp to indicate its use.
+Rifle Grenade Cartridges, M1 (1933–1945), M2 (1941), M3 (1941–1953), and M3E1 (1953–present): These cartridges are used in conjunction with the M7 series of rifle grenade launchers to propel rifle grenades. Rifle grenade cartridges utilize a full-size brass case and carry only a powder charge.  M1, M2, and M3 grenade cartridges are sealed at the case-mouth with a red wad and the M3E1 is crimped. The differences between the three cartridges have to do with the powder charge and the range of grenade launchers. The M1 was a universal blank and rifle grenade cartridge that replaced the specialized rifle grenade (RG), chemical rifle grenade (CRG), and chemical warfare grenade (CWG) cartridges and was used with cup-discharger rifle grenade launchers. The M2 was an experimental cartridge used as a testbed; it used a propellant mixture of black powder and smokeless powder because it was feared that the smokeless powder would not reliably ignite by itself. The M3 was designed to be used with the M1 series (for the M1903 Springfield rifle), M2 series (for the M1917 Enfield rifle), and M7 series (for the M1 Garand rifle) spigot grenade launchers and used a propellant that was a mixture of five grains of FFFG black powder and 40 grains of IMR-4895 smokeless powder. The M3E1 featured an extended case neck, a rosepetal crimp, and a full smokeless powder loading and was designed for use with the M7A3 spigot rifle grenade launcher and larger ENERGA rifle grenade. The grenade cartridges were issued in double-rowed 10-round cartons, usually as part of a set with the hermetically-sealed metal M13 grenade launcher assortment ammo can.
+Tracer, M1: Tracer for observing fire, signaling, target designation, and incendiary purposes. The M1 has a red tip.
+Tracer, M2: Tracer for observing fire, signaling, target designation, and incendiary purposes. Has a short burn time. The M2 originally had a white tip, but then switched to a red tip like the M1. This was due to the similar purpose of both rounds.
+Tracer, M2 alternate (1943–1945): A wartime economy variant of the tracer M2 that used a steel full metal jacket coated with gilding metal. It was ballistically matched to the ball M2 alternate.
+Tracer, T10/M25: Improved tracer over M1 & M2. Designed to be less intense in terms of brightness than either the M1 or M2 tracers. The M25 had an orange tip.
+
+
+Commonwealth
+The .30-06 (or "caliber .30") cartridge was adopted in 1940 during the beginnings of the Lend-Lease program in anticipation of using American weapons in front-line service. The British used American-made ammunition during the war, which was designated as cartridge S.A, .30 to avoid confusing it with their own .303 British service round. It was used after the war as belted machinegun ammunition by the Royal Armored Corps and was not declared obsolete until October, 1993. The "z" after the numeral indicates that it used a nitrocellulose propellant rather than cordite. Marks of ammunition were originally designated with Roman numerals (i.e., .303 Ball Mark VII), but were replaced with Arabic numerals by 1945 (i.e., .303 Ball MK 7).
+
+Cartridge S.A, .30 ball MK Iz: This was the War Ministry's designation for the 172-grain .30-06 Ball M1 round. It was not accepted for use in service, as the American military had already marked it as limited standard.
+Cartridge S.A, .30 ball MK IIz: This was the War Ministry's designation for the 150-grain .30-06 Ball M2 round. Lend-Lease ammo made for the British government had no mark designation and was headstamped .300z.
+Cartridge S.A, .30 ball MK 3z: This was the designation for an experimental round designed in 1945 for Royal Navy use that was based on the .30-06 ball M2. It was not adopted for service.
+Cartridge S.A, .30 ball MK 4z: This is a boat-tailed cartridge with a 150-grain full metal jacketed bullet. It is marked with a purple annulus. It was normally packed in 20-round cartons. However, Commonwealth countries that used the M1 Garand (like Pakistan) bundled it in 16-round cartons that contained two preloaded 8-round Mannlicher-style en-bloc clips.
+Cartridge S.A, .30 ball MK 5z: This was made under contract by Fabrique Nationale in the 1970s.
+Cartridge S.A, tracer .30 inch G Mark 1z: This is a boat-tailed cartridge with a 150-grain full metal jacketed bullet and a Berdan primer. It is marked with a red annulus and has a headstamp of .30 G1z.
+Cartridge S.A, tracer .30 inch G Mark 2z: This was made under contract by Fabrique Nationale in the 1970s and is paired with .30 ball MK 5z. It is the same as the G Mark 1z, except it has a non-corrosive Berdan primer. It is marked with a red bullet tip and has a headstamp of .30 G2z.
+Cartridge S.A., incendiary .30 inch B Mark Iz: US-made incendiary M1 cartridges.
+Cartridge S.A., incendiary .30 inch B Mark IIz: UK-made incendiary M1 cartridges.
+Cartridge S.A., drill .30 inch Mark I: This was the War Ministry's designation for the US dummy M40 round. It had green paint on its flutes.
+Cartridge S.A., drill .30 inch Mark II: US dummy M40 round made by the UK from used US .30-06 cases. It had a recapped headstamp, ball or AP bullet over a wooden dowel, and red paint on its flutes.
+Cartridge S.A., drill .30 inch Mark III: Training cartridge made by the Indian Army. Although described and specified in a 1945 ammunition manual, no copies have been discovered.
+Cartridge S.A., drill .30 inch Mark IV:
+Cartridge S.A., drill .30 inch Mark 5:
+
+
+French Union
+The .30-06 round was adopted in 1949 for use in American war surplus military aid weapons like the M1 Garand and M1919 medium machinegun. Military production was from the 1950s to the mid-1960s, while export production to French Union nations lasted until the late 1980s. Cartridge cases were softer than US specifications to prohibit their being recovered and reloaded by insurgents.  
+
+7.62mm Modele 1949 Cartouche à Balle Ordinaire: This cartridge was based on the USGI .30-06 ball M2 (alternate) round. It had a cupro-nickel- or gilding-metal-clad steel jacket with either a brass or lacquered Parkerized steel case with a Berdan primer.
+7.62mm Modele 1951 Cartouche à blanc pour Fusil: This blank cartridge has a papier-mâché bullet for training use in rifles. The bullet is painted green to tell it apart from regular ammo.
+7.62mm Modele 1951 Cartouche à blanc pour Fusil-Mitrailleur: This blank cartridge has a wooden bullet for training use in machineguns. The bullet is painted or tinted blue to tell it apart from regular ammo.
+7.62mm Modele 1952 Cartouche à blanc: This blank cartridge has a lacquered Parkerized steel case and is sealed by a blue cardboard disc at the case mouth.
+
+
+Military firearms using the .30-06 cartridge
+
+
+Rifles
+M1903/M1903A3 bolt-action rifle using Mauser-licensed 5-round stripper clips
+M1917 Enfield rifle: loading from 5-round Mauser-style stripper clips
+Itajuba Model 954 Mosquetao
+M1 Garand: loads by inserting an 8-round Mannlicher-type en bloc clip. The clip is ejected upon either firing the last round or pressing a release button on the magazine.
+M1941 Johnson rifle: feeding from a 10-round internal rotary magazine, loading from 5-round stripper clips
+M1947 Johnson auto carbine
+Model 45A: prototype bullpup using 20-round M1918 BAR magazines
+Sheppard autorifle: prototype
+Sieg automatic rifle: prototype
+Springfield 1903 primer-actuated rifle
+Thompson autorifle: prototype
+Thompson .30-06 submachine gun: prototype
+FN Model 1949
+
+
+Machine guns
+Gatling gun: Some U.S. Gatling guns were re-chambered for .30-06
+Model 1909 machine rifle: The Benét–Mercié light machine gun was chambered for .30-06
+M1918 Chauchat: The US used a mix of Chauchats in .30-06 and 8 mm Lebel
+Vickers machine gun
+Breda Bren
+Lewis gun: The US used a limited amount of Lewis guns chambered in .30-06 in both World War I and World War II
+FN Mle 1930: Used by Belgium in .30-06
+M1917 machine gun water-cooled
+M1919 machine gun, M37 machine gun, and AN/M2 aircraft machine gun. All air-cooled machine guns feeding from belts.
+M1918 Browning Automatic Rifle: loading from detachable 20-round magazines
+Marlin machine gun: Similar to the Colt–Browning machine gun ('Potato Digger'), but without the swinging 'digger' piston (linear gas-action piston replacing the swinging action), and used mainly on aircraft.
+M1941 Johnson LMG: feeding from 20-round side-loading magazine.
+
+
+See also
+
+
+References
+Notes
+
+Bibliography
+
+
+External links
+ Media related to .30-06 at Wikimedia Commons
