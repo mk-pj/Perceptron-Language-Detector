@@ -15,20 +15,6 @@ public class TextProcessor {
         this.langParentDir = new File(langParentDir);
     }
 
-    public static void main(String[] args) {
-        var textProcessor = new TextProcessor("lang");
-        textProcessor.processText();
-        System.out.println(textProcessor.allLanguages.size());
-        textProcessor.languages.forEach(lang -> {
-            System.out.println(lang.getLang());
-            for(int i = 0; i < lang.getTrainingData().size(); i++) {
-                var trainingData = lang.getTrainingData().get(i);
-                var trainingAnswer = lang.getTrainingAnswers().get(i);
-                System.out.println(Arrays.toString(trainingData) + " answer = "  + trainingAnswer);
-            }
-        });
-    }
-
     public static double[] getLetterDistribution(String letters) {
         var letterCount = letters.length();
         var distribution = new double[26];
