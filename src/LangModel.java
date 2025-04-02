@@ -32,18 +32,6 @@ public class LangModel {
         return lang;
     }
 
-    public Perceptron getPerceptron() {
-        return perceptron;
-    }
-
-    public List<double[]> getTrainingData() {
-        return trainingData;
-    }
-
-    public List<Integer> getTrainingAnswers() {
-        return trainingAnswers;
-    }
-
     public double getNetValue() {
         return this.perceptron.getNetValue();
     }

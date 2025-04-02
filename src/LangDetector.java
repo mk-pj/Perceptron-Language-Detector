@@ -21,21 +21,30 @@ public class LangDetector {
 
     private record ClassificationResult(LangModel lang, double netValue) { }
 
-    public String classify(String file) {
-        try(Stream<String> lines = Files.lines(Paths.get(file))) {
-            String letters = TextProcessor.processFileContent(lines);
-            double[] data = TextProcessor.getLetterDistribution(letters);
-
-            return textProcessor.getLanguages()
+    public String classify(double[] letterFrequencies) {
+        return textProcessor.getLanguages()
                 .stream()
                 .map(lang -> {
-                    lang.classify(data);
+                    lang.classify(letterFrequencies);
                     double net = lang.getNetValue();
                     return new ClassificationResult(lang, net);
                 })
                 .max(Comparator.comparingDouble(res -> res.netValue))
                 .map(res -> res.lang.getLang())
                 .orElse("");
+    }
+
+    public String classifyTextDirectly(String text) {
+        String letters = TextProcessor.processFileContent(text);
+        double[] data = TextProcessor.getLetterDistribution(letters);
+        return classify(data);
+    }
+
+    public String classifyFile(String file) {
+        try(Stream<String> lines = Files.lines(Paths.get(file))) {
+            String letters = TextProcessor.processFileContent(lines);
+            double[] data = TextProcessor.getLetterDistribution(letters);
+            return classify(data);
         } catch (IOException e) {
             System.err.println("Error while reading file " + file);
             throw new RuntimeException(e);
@@ -77,7 +86,7 @@ public class LangDetector {
                     return;
                 ++currentStats.count;
                 String actualLang = currentStats.language;
-                String lang = classify(file.getAbsolutePath());
+                String lang = classifyFile(file.getAbsolutePath());
                 if(actualLang.equals(lang))
                     ++currentStats.correct;
                 System.out.println("Actual language: " + actualLang + ", " + "Predicted language: " + lang);

@@ -11,10 +11,12 @@ public class Main {
 
     public static void main(String[] args) {
         LangDetector detector = new LangDetector("lang_train");
-        detector.learn(900);
+        detector.learn(550);
         detector.test("lang_test").forEach(System.out::println);
         File file = testFileChooser();
-        System.out.println(detector.classify(file.getAbsolutePath()));
+        System.out.println(detector.classifyFile(file.getAbsolutePath()));
+        System.out.println(testTextFromConsole(detector));
+        System.out.println(testFileDirectly(detector));
     }
 
     public static File testFileChooser() {
@@ -77,5 +79,19 @@ public class Main {
     public static void printFiles(File[] files) {
         for(int i = 0; i < files.length; i++)
             System.out.println(i+1 + ". " + files[i].getName());
+    }
+
+    public static String testTextFromConsole(LangDetector detector) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter text in one of  the following languages [de, en, es, fr, pl]:]");
+        String text = scanner.nextLine();
+        return detector.classifyTextDirectly(text);
+    }
+
+    public static String testFileDirectly(LangDetector detector) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter the path to the file:");
+        String input = scanner.nextLine().trim();
+        return detector.classifyFile(input);
     }
 }

@@ -1,5 +1,4 @@
 import java.util.List;
-import java.util.Random;
 
 public class Perceptron {
 
@@ -7,13 +6,12 @@ public class Perceptron {
     private double netValue;
     private final double alpha;
     private final double[] weights;
-    private final static Random rand = new Random();
 
     public Perceptron(int dim, double alpha, double theta) {
         this.alpha = alpha;
         this.weights = new double[dim ];
         for(int i = 0; i < dim; ++i)
-            weights[i] = rand.nextDouble() - 0.5;
+            weights[i] = 0;
         this.theta = theta;
     }
 

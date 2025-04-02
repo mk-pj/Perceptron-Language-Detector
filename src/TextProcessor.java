@@ -41,6 +41,10 @@ public class TextProcessor {
         }
     }
 
+    public static String processFileContent(String text) {
+        return text.toLowerCase().replaceAll("[^a-zA-Z]", "");
+    }
+
     public static String processFileContent(Stream<String> content) {
         return content.map(String::toLowerCase)
                       .map(str -> str.replaceAll("[^a-z]", ""))

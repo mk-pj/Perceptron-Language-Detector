@@ -1,4 +1,3 @@
-Tytuł: .Net-Framework
 
 Das .Net-Framework (Eigenschreibweise: .NET Framework) ist ein Teil von Microsofts Software-Plattform .NET und erfüllt als solcher seine Funktion bei der Entwicklung und Ausführung von Programmen, die das Framework einbinden und verwenden. Das Framework von .NET bietet sowohl eine Laufzeitumgebung für die Ausführung, als auch eine Programmbibliothek für die Entwicklung von Programmen. Für den Endanwender ist das .Net-Framework eine Middleware, ohne die Software und Anwendungen, die das .Net-Framework benutzen, nicht lauffähig sind.
 Seit Windows Vista wird das .Net-Framework zusammen mit dem Betriebssystem installiert. Seit seiner Einführung wird das Framework über Windows Update von Microsoft gepflegt.
