@@ -17,6 +17,8 @@ public class TextProcessor {
 
     public static double[] getLetterDistribution(String letters) {
         var letterCount = letters.length();
+        if (letterCount == 0)
+            throw new IllegalArgumentException("Text must contain at least one letter.");
         var distribution = new double[26];
         for (int i = 0; i < letterCount; i++) {
             int index = letters.charAt(i) - 'a';
@@ -72,7 +74,7 @@ public class TextProcessor {
     }
 
     private Perceptron createPerceptron() {
-        return new Perceptron(26, 0.01, 0.6);
+        return new Perceptron(26, 0.01, 1.2);
     }
 
     public List<LangModel> getLanguages() {

@@ -25,7 +25,7 @@ public class LangDetector {
         return textProcessor.getLanguages()
                 .stream()
                 .map(lang -> {
-                    lang.classify(letterFrequencies);
+                    int y = lang.classify(letterFrequencies);
                     double net = lang.getNetValue();
                     return new ClassificationResult(lang, net);
                 })
@@ -93,6 +93,5 @@ public class LangDetector {
             }
         }
     }
-
 
 }

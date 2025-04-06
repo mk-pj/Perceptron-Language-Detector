@@ -11,12 +11,12 @@ public class Main {
 
     public static void main(String[] args) {
         LangDetector detector = new LangDetector("lang_train");
-        detector.learn(550);
+        detector.learn(500);
         detector.test("lang_test").forEach(System.out::println);
         File file = testFileChooser();
-        System.out.println(detector.classifyFile(file.getAbsolutePath()));
-        System.out.println(testTextFromConsole(detector));
-        System.out.println(testFileDirectly(detector));
+        System.out.println("Prediction: " + detector.classifyFile(file.getAbsolutePath()));
+        System.out.println("Prediction: " + testTextFromConsole(detector));
+        System.out.println("Prediction: " + testFileDirectly(detector));
     }
 
     public static File testFileChooser() {
@@ -83,15 +83,27 @@ public class Main {
 
     public static String testTextFromConsole(LangDetector detector) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter text in one of  the following languages [de, en, es, fr, pl]:]");
-        String text = scanner.nextLine();
-        return detector.classifyTextDirectly(text);
+        for(;;) {
+            try {
+                System.out.println("Enter text in one of  the following languages [de, en, es, fr, pl]:]");
+                String text = scanner.nextLine();
+                return detector.classifyTextDirectly(text);
+            } catch (IllegalArgumentException e) {
+                System.out.println("Please enter a valid text");
+            }
+        }
     }
 
     public static String testFileDirectly(LangDetector detector) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter the path to the file:");
-        String input = scanner.nextLine().trim();
-        return detector.classifyFile(input);
+        for(;;) {
+            try {
+                System.out.println("Enter the path to the file:");
+                String input = scanner.nextLine().trim();
+                return detector.classifyFile(input);
+            } catch (RuntimeException e) {
+                System.out.println("File not found! Try again.");
+            }
+        }
     }
 }
